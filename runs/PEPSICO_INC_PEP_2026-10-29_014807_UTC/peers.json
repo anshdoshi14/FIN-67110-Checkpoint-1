@@ -1,0 +1,746 @@
+{
+  "KO": {
+    "ticker": "KO",
+    "name": "COCA COLA CO",
+    "latest_10k": {
+      "form": "10-K",
+      "accession": "0001628280-26-010047",
+      "filing_date": "2026-02-20",
+      "report_date": "2025-12-31",
+      "accepted": "2026-02-20T14:46:32.000Z",
+      "primary_document": "ko-20251231.htm",
+      "items": "",
+      "cik": 21344,
+      "index_url": "https://www.sec.gov/Archives/edgar/data/21344/000162828026010047/0001628280-26-010047-index.htm",
+      "primary_url": "https://www.sec.gov/Archives/edgar/data/21344/000162828026010047/ko-20251231.htm",
+      "exhibit_url": ""
+    },
+    "facts": {
+      "fiscal_year_end": "2025-12-31",
+      "prior_fiscal_year_end": "2024-12-31",
+      "ten_k_accession": "0001628280-26-010047",
+      "fields": {
+        "revenue": {
+          "current": {
+            "tag": "Revenues",
+            "value": 47941000000,
+            "unit": "USD",
+            "start": "2025-01-01",
+            "end": "2025-12-31",
+            "accession": "0001628280-26-010047",
+            "filed": "2026-02-20",
+            "form": "10-K",
+            "frame": "CY2025"
+          },
+          "prior": {
+            "tag": "Revenues",
+            "value": 47061000000,
+            "unit": "USD",
+            "start": "2024-01-01",
+            "end": "2024-12-31",
+            "accession": "0001628280-26-010047",
+            "filed": "2026-02-20",
+            "form": "10-K",
+            "frame": "CY2024"
+          }
+        },
+        "operating_income": {
+          "current": {
+            "tag": "OperatingIncomeLoss",
+            "value": 13762000000,
+            "unit": "USD",
+            "start": "2025-01-01",
+            "end": "2025-12-31",
+            "accession": "0001628280-26-010047",
+            "filed": "2026-02-20",
+            "form": "10-K",
+            "frame": "CY2025"
+          },
+          "prior": {
+            "tag": "OperatingIncomeLoss",
+            "value": 9992000000,
+            "unit": "USD",
+            "start": "2024-01-01",
+            "end": "2024-12-31",
+            "accession": "0001628280-26-010047",
+            "filed": "2026-02-20",
+            "form": "10-K",
+            "frame": "CY2024"
+          }
+        },
+        "net_income": {
+          "current": {
+            "tag": "NetIncomeLoss",
+            "value": 13107000000,
+            "unit": "USD",
+            "start": "2025-01-01",
+            "end": "2025-12-31",
+            "accession": "0001628280-26-010047",
+            "filed": "2026-02-20",
+            "form": "10-K",
+            "frame": "CY2025"
+          },
+          "prior": {
+            "tag": "NetIncomeLoss",
+            "value": 10631000000,
+            "unit": "USD",
+            "start": "2024-01-01",
+            "end": "2024-12-31",
+            "accession": "0001628280-26-010047",
+            "filed": "2026-02-20",
+            "form": "10-K",
+            "frame": "CY2024"
+          }
+        },
+        "diluted_eps": {
+          "current": {
+            "tag": "EarningsPerShareDiluted",
+            "value": 3.04,
+            "unit": "USD/shares",
+            "start": "2025-01-01",
+            "end": "2025-12-31",
+            "accession": "0001628280-26-010047",
+            "filed": "2026-02-20",
+            "form": "10-K",
+            "frame": "CY2025"
+          },
+          "prior": {
+            "tag": "EarningsPerShareDiluted",
+            "value": 2.46,
+            "unit": "USD/shares",
+            "start": "2024-01-01",
+            "end": "2024-12-31",
+            "accession": "0001628280-26-010047",
+            "filed": "2026-02-20",
+            "form": "10-K",
+            "frame": "CY2024"
+          }
+        },
+        "equity": {
+          "current": {
+            "tag": "StockholdersEquity",
+            "value": 32169000000,
+            "unit": "USD",
+            "start": null,
+            "end": "2025-12-31",
+            "accession": "0001628280-26-010047",
+            "filed": "2026-02-20",
+            "form": "10-K",
+            "frame": null
+          },
+          "prior": {
+            "tag": "StockholdersEquity",
+            "value": 24856000000,
+            "unit": "USD",
+            "start": null,
+            "end": "2024-12-31",
+            "accession": "0001628280-26-010047",
+            "filed": "2026-02-20",
+            "form": "10-K",
+            "frame": "CY2024Q4I"
+          }
+        },
+        "long_term_debt_noncurrent": {
+          "current": {
+            "tag": "LongTermDebtAndCapitalLeaseObligations",
+            "value": 42119000000,
+            "unit": "USD",
+            "start": null,
+            "end": "2025-12-31",
+            "accession": "0001628280-26-010047",
+            "filed": "2026-02-20",
+            "form": "10-K",
+            "frame": null
+          },
+          "prior": {
+            "tag": "LongTermDebtAndCapitalLeaseObligations",
+            "value": 42375000000,
+            "unit": "USD",
+            "start": null,
+            "end": "2024-12-31",
+            "accession": "0001628280-26-010047",
+            "filed": "2026-02-20",
+            "form": "10-K",
+            "frame": "CY2024Q4I"
+          }
+        },
+        "long_term_debt_current": {
+          "current": {
+            "tag": "LongTermDebtAndCapitalLeaseObligationsCurrent",
+            "value": 1822000000,
+            "unit": "USD",
+            "start": null,
+            "end": "2025-12-31",
+            "accession": "0001628280-26-010047",
+            "filed": "2026-02-20",
+            "form": "10-K",
+            "frame": null
+          },
+          "prior": {
+            "tag": "LongTermDebtAndCapitalLeaseObligationsCurrent",
+            "value": 648000000,
+            "unit": "USD",
+            "start": null,
+            "end": "2024-12-31",
+            "accession": "0001628280-26-010047",
+            "filed": "2026-02-20",
+            "form": "10-K",
+            "frame": "CY2024Q4I"
+          }
+        },
+        "cash_from_operations": {
+          "current": {
+            "tag": "NetCashProvidedByUsedInOperatingActivities",
+            "value": 7408000000,
+            "unit": "USD",
+            "start": "2025-01-01",
+            "end": "2025-12-31",
+            "accession": "0001628280-26-010047",
+            "filed": "2026-02-20",
+            "form": "10-K",
+            "frame": "CY2025"
+          },
+          "prior": {
+            "tag": "NetCashProvidedByUsedInOperatingActivities",
+            "value": 6805000000,
+            "unit": "USD",
+            "start": "2024-01-01",
+            "end": "2024-12-31",
+            "accession": "0001628280-26-010047",
+            "filed": "2026-02-20",
+            "form": "10-K",
+            "frame": "CY2024"
+          }
+        },
+        "capex": {
+          "current": {
+            "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
+            "value": 2112000000,
+            "unit": "USD",
+            "start": "2025-01-01",
+            "end": "2025-12-31",
+            "accession": "0001628280-26-010047",
+            "filed": "2026-02-20",
+            "form": "10-K",
+            "frame": "CY2025"
+          },
+          "prior": {
+            "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
+            "value": 2064000000,
+            "unit": "USD",
+            "start": "2024-01-01",
+            "end": "2024-12-31",
+            "accession": "0001628280-26-010047",
+            "filed": "2026-02-20",
+            "form": "10-K",
+            "frame": "CY2024"
+          }
+        }
+      },
+      "cautions": [
+        "Debt tag can include current portion; check 10-K balance sheet before adding current debt to avoid double count."
+      ]
+    },
+    "operating_margin": {
+      "value": 0.28706117936630443,
+      "arithmetic": "13762000000 / 47941000000",
+      "unit": "fraction"
+    }
+  },
+  "KDP": {
+    "ticker": "KDP",
+    "name": "Keurig Dr Pepper Inc.",
+    "latest_10k": {
+      "form": "10-K",
+      "accession": "0001418135-26-000016",
+      "filing_date": "2026-02-24",
+      "report_date": "2025-12-31",
+      "accepted": "2026-02-24T21:56:33.000Z",
+      "primary_document": "kdp-20251231.htm",
+      "items": "",
+      "cik": 1418135,
+      "index_url": "https://www.sec.gov/Archives/edgar/data/1418135/000141813526000016/0001418135-26-000016-index.htm",
+      "primary_url": "https://www.sec.gov/Archives/edgar/data/1418135/000141813526000016/kdp-20251231.htm",
+      "exhibit_url": ""
+    },
+    "facts": {
+      "fiscal_year_end": "2025-12-31",
+      "prior_fiscal_year_end": "2024-12-31",
+      "ten_k_accession": "0001418135-26-000016",
+      "fields": {
+        "revenue": {
+          "current": {
+            "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+            "value": 16603000000,
+            "unit": "USD",
+            "start": "2025-01-01",
+            "end": "2025-12-31",
+            "accession": "0001418135-26-000016",
+            "filed": "2026-02-24",
+            "form": "10-K",
+            "frame": "CY2025"
+          },
+          "prior": {
+            "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+            "value": 15351000000,
+            "unit": "USD",
+            "start": "2024-01-01",
+            "end": "2024-12-31",
+            "accession": "0001418135-26-000016",
+            "filed": "2026-02-24",
+            "form": "10-K",
+            "frame": "CY2024"
+          }
+        },
+        "operating_income": {
+          "current": {
+            "tag": "OperatingIncomeLoss",
+            "value": 3575000000,
+            "unit": "USD",
+            "start": "2025-01-01",
+            "end": "2025-12-31",
+            "accession": "0001418135-26-000016",
+            "filed": "2026-02-24",
+            "form": "10-K",
+            "frame": "CY2025"
+          },
+          "prior": {
+            "tag": "OperatingIncomeLoss",
+            "value": 2591000000,
+            "unit": "USD",
+            "start": "2024-01-01",
+            "end": "2024-12-31",
+            "accession": "0001418135-26-000016",
+            "filed": "2026-02-24",
+            "form": "10-K",
+            "frame": "CY2024"
+          }
+        },
+        "net_income": {
+          "current": {
+            "tag": "NetIncomeLoss",
+            "value": 2079000000,
+            "unit": "USD",
+            "start": "2025-01-01",
+            "end": "2025-12-31",
+            "accession": "0001418135-26-000016",
+            "filed": "2026-02-24",
+            "form": "10-K",
+            "frame": null
+          },
+          "prior": {
+            "tag": "NetIncomeLoss",
+            "value": 1441000000,
+            "unit": "USD",
+            "start": "2024-01-01",
+            "end": "2024-12-31",
+            "accession": "0001418135-26-000016",
+            "filed": "2026-02-24",
+            "form": "10-K",
+            "frame": null
+          }
+        },
+        "diluted_eps": {
+          "current": {
+            "tag": "EarningsPerShareDiluted",
+            "value": 1.53,
+            "unit": "USD/shares",
+            "start": "2025-01-01",
+            "end": "2025-12-31",
+            "accession": "0001418135-26-000016",
+            "filed": "2026-02-24",
+            "form": "10-K",
+            "frame": "CY2025"
+          },
+          "prior": {
+            "tag": "EarningsPerShareDiluted",
+            "value": 1.05,
+            "unit": "USD/shares",
+            "start": "2024-01-01",
+            "end": "2024-12-31",
+            "accession": "0001418135-26-000016",
+            "filed": "2026-02-24",
+            "form": "10-K",
+            "frame": "CY2024"
+          }
+        },
+        "equity": {
+          "current": {
+            "tag": "StockholdersEquity",
+            "value": 25516000000,
+            "unit": "USD",
+            "start": null,
+            "end": "2025-12-31",
+            "accession": "0001418135-26-000016",
+            "filed": "2026-02-24",
+            "form": "10-K",
+            "frame": null
+          },
+          "prior": {
+            "tag": "StockholdersEquity",
+            "value": 24243000000,
+            "unit": "USD",
+            "start": null,
+            "end": "2024-12-31",
+            "accession": "0001418135-26-000016",
+            "filed": "2026-02-24",
+            "form": "10-K",
+            "frame": null
+          }
+        },
+        "long_term_debt_noncurrent": {
+          "current": {
+            "tag": "LongTermDebtNoncurrent",
+            "value": 13036000000,
+            "unit": "USD",
+            "start": null,
+            "end": "2025-12-31",
+            "accession": "0001418135-26-000016",
+            "filed": "2026-02-24",
+            "form": "10-K",
+            "frame": null
+          },
+          "prior": {
+            "tag": "LongTermDebtNoncurrent",
+            "value": 12912000000,
+            "unit": "USD",
+            "start": null,
+            "end": "2024-12-31",
+            "accession": "0001418135-26-000016",
+            "filed": "2026-02-24",
+            "form": "10-K",
+            "frame": "CY2024Q4I"
+          }
+        },
+        "long_term_debt_current": {
+          "current": {
+            "tag": "LongTermDebtCurrent",
+            "value": 895000000,
+            "unit": "USD",
+            "start": null,
+            "end": "2025-12-31",
+            "accession": "0001418135-26-000016",
+            "filed": "2026-02-24",
+            "form": "10-K",
+            "frame": null
+          },
+          "prior": {
+            "tag": "LongTermDebtCurrent",
+            "value": 1026000000,
+            "unit": "USD",
+            "start": null,
+            "end": "2024-12-31",
+            "accession": "0001418135-26-000016",
+            "filed": "2026-02-24",
+            "form": "10-K",
+            "frame": "CY2024Q4I"
+          }
+        },
+        "cash_from_operations": {
+          "current": {
+            "tag": "NetCashProvidedByUsedInOperatingActivities",
+            "value": 1991000000,
+            "unit": "USD",
+            "start": "2025-01-01",
+            "end": "2025-12-31",
+            "accession": "0001418135-26-000016",
+            "filed": "2026-02-24",
+            "form": "10-K",
+            "frame": "CY2025"
+          },
+          "prior": {
+            "tag": "NetCashProvidedByUsedInOperatingActivities",
+            "value": 2219000000,
+            "unit": "USD",
+            "start": "2024-01-01",
+            "end": "2024-12-31",
+            "accession": "0001418135-26-000016",
+            "filed": "2026-02-24",
+            "form": "10-K",
+            "frame": "CY2024"
+          }
+        },
+        "capex": {
+          "current": {
+            "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
+            "value": 486000000,
+            "unit": "USD",
+            "start": "2025-01-01",
+            "end": "2025-12-31",
+            "accession": "0001418135-26-000016",
+            "filed": "2026-02-24",
+            "form": "10-K",
+            "frame": "CY2025"
+          },
+          "prior": {
+            "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
+            "value": 563000000,
+            "unit": "USD",
+            "start": "2024-01-01",
+            "end": "2024-12-31",
+            "accession": "0001418135-26-000016",
+            "filed": "2026-02-24",
+            "form": "10-K",
+            "frame": "CY2024"
+          }
+        }
+      },
+      "cautions": [
+        "Revenue uses contract-sales tag; verify it includes total revenue (e.g. membership/other income), not net sales only."
+      ]
+    },
+    "operating_margin": {
+      "value": 0.215322532072517,
+      "arithmetic": "3575000000 / 16603000000",
+      "unit": "fraction"
+    }
+  },
+  "MDLZ": {
+    "ticker": "MDLZ",
+    "name": "Mondelez International, Inc.",
+    "latest_10k": {
+      "form": "10-K",
+      "accession": "0001628280-26-005345",
+      "filing_date": "2026-02-04",
+      "report_date": "2025-12-31",
+      "accepted": "2026-02-04T17:39:46.000Z",
+      "primary_document": "mdlz-20251231.htm",
+      "items": "",
+      "cik": 1103982,
+      "index_url": "https://www.sec.gov/Archives/edgar/data/1103982/000162828026005345/0001628280-26-005345-index.htm",
+      "primary_url": "https://www.sec.gov/Archives/edgar/data/1103982/000162828026005345/mdlz-20251231.htm",
+      "exhibit_url": ""
+    },
+    "facts": {
+      "fiscal_year_end": "2025-12-31",
+      "prior_fiscal_year_end": "2024-12-31",
+      "ten_k_accession": "0001628280-26-005345",
+      "fields": {
+        "revenue": {
+          "current": {
+            "tag": "Revenues",
+            "value": 38537000000,
+            "unit": "USD",
+            "start": "2025-01-01",
+            "end": "2025-12-31",
+            "accession": "0001628280-26-005345",
+            "filed": "2026-02-04",
+            "form": "10-K",
+            "frame": "CY2025"
+          },
+          "prior": {
+            "tag": "Revenues",
+            "value": 36441000000,
+            "unit": "USD",
+            "start": "2024-01-01",
+            "end": "2024-12-31",
+            "accession": "0001628280-26-005345",
+            "filed": "2026-02-04",
+            "form": "10-K",
+            "frame": "CY2024"
+          }
+        },
+        "operating_income": {
+          "current": {
+            "tag": "OperatingIncomeLoss",
+            "value": 3548000000,
+            "unit": "USD",
+            "start": "2025-01-01",
+            "end": "2025-12-31",
+            "accession": "0001628280-26-005345",
+            "filed": "2026-02-04",
+            "form": "10-K",
+            "frame": "CY2025"
+          },
+          "prior": {
+            "tag": "OperatingIncomeLoss",
+            "value": 6345000000,
+            "unit": "USD",
+            "start": "2024-01-01",
+            "end": "2024-12-31",
+            "accession": "0001628280-26-005345",
+            "filed": "2026-02-04",
+            "form": "10-K",
+            "frame": "CY2024"
+          }
+        },
+        "net_income": {
+          "current": {
+            "tag": "NetIncomeLoss",
+            "value": 2451000000,
+            "unit": "USD",
+            "start": "2025-01-01",
+            "end": "2025-12-31",
+            "accession": "0001628280-26-005345",
+            "filed": "2026-02-04",
+            "form": "10-K",
+            "frame": "CY2025"
+          },
+          "prior": {
+            "tag": "NetIncomeLoss",
+            "value": 4611000000,
+            "unit": "USD",
+            "start": "2024-01-01",
+            "end": "2024-12-31",
+            "accession": "0001628280-26-005345",
+            "filed": "2026-02-04",
+            "form": "10-K",
+            "frame": "CY2024"
+          }
+        },
+        "diluted_eps": {
+          "current": {
+            "tag": "EarningsPerShareDiluted",
+            "value": 1.89,
+            "unit": "USD/shares",
+            "start": "2025-01-01",
+            "end": "2025-12-31",
+            "accession": "0001628280-26-005345",
+            "filed": "2026-02-04",
+            "form": "10-K",
+            "frame": "CY2025"
+          },
+          "prior": {
+            "tag": "EarningsPerShareDiluted",
+            "value": 3.42,
+            "unit": "USD/shares",
+            "start": "2024-01-01",
+            "end": "2024-12-31",
+            "accession": "0001628280-26-005345",
+            "filed": "2026-02-04",
+            "form": "10-K",
+            "frame": "CY2024"
+          }
+        },
+        "equity": {
+          "current": {
+            "tag": "StockholdersEquity",
+            "value": 25838000000,
+            "unit": "USD",
+            "start": null,
+            "end": "2025-12-31",
+            "accession": "0001628280-26-005345",
+            "filed": "2026-02-04",
+            "form": "10-K",
+            "frame": null
+          },
+          "prior": {
+            "tag": "StockholdersEquity",
+            "value": 26932000000,
+            "unit": "USD",
+            "start": null,
+            "end": "2024-12-31",
+            "accession": "0001628280-26-005345",
+            "filed": "2026-02-04",
+            "form": "10-K",
+            "frame": "CY2024Q4I"
+          }
+        },
+        "long_term_debt_noncurrent": {
+          "current": {
+            "tag": "LongTermDebtAndCapitalLeaseObligations",
+            "value": 17222000000,
+            "unit": "USD",
+            "start": null,
+            "end": "2025-12-31",
+            "accession": "0001628280-26-005345",
+            "filed": "2026-02-04",
+            "form": "10-K",
+            "frame": null
+          },
+          "prior": {
+            "tag": "LongTermDebtAndCapitalLeaseObligations",
+            "value": 15664000000,
+            "unit": "USD",
+            "start": null,
+            "end": "2024-12-31",
+            "accession": "0001628280-26-005345",
+            "filed": "2026-02-04",
+            "form": "10-K",
+            "frame": "CY2024Q4I"
+          }
+        },
+        "long_term_debt_current": {
+          "current": {
+            "tag": "LongTermDebtAndCapitalLeaseObligationsCurrent",
+            "value": 1295000000,
+            "unit": "USD",
+            "start": null,
+            "end": "2025-12-31",
+            "accession": "0001628280-26-005345",
+            "filed": "2026-02-04",
+            "form": "10-K",
+            "frame": null
+          },
+          "prior": {
+            "tag": "LongTermDebtAndCapitalLeaseObligationsCurrent",
+            "value": 2014000000,
+            "unit": "USD",
+            "start": null,
+            "end": "2024-12-31",
+            "accession": "0001628280-26-005345",
+            "filed": "2026-02-04",
+            "form": "10-K",
+            "frame": "CY2024Q4I"
+          }
+        },
+        "cash_from_operations": {
+          "current": {
+            "tag": "NetCashProvidedByUsedInOperatingActivities",
+            "value": 4514000000,
+            "unit": "USD",
+            "start": "2025-01-01",
+            "end": "2025-12-31",
+            "accession": "0001628280-26-005345",
+            "filed": "2026-02-04",
+            "form": "10-K",
+            "frame": "CY2025"
+          },
+          "prior": {
+            "tag": "NetCashProvidedByUsedInOperatingActivities",
+            "value": 4910000000,
+            "unit": "USD",
+            "start": "2024-01-01",
+            "end": "2024-12-31",
+            "accession": "0001628280-26-005345",
+            "filed": "2026-02-04",
+            "form": "10-K",
+            "frame": "CY2024"
+          }
+        },
+        "capex": {
+          "current": {
+            "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
+            "value": 1279000000,
+            "unit": "USD",
+            "start": "2025-01-01",
+            "end": "2025-12-31",
+            "accession": "0001628280-26-005345",
+            "filed": "2026-02-04",
+            "form": "10-K",
+            "frame": "CY2025"
+          },
+          "prior": {
+            "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
+            "value": 1387000000,
+            "unit": "USD",
+            "start": "2024-01-01",
+            "end": "2024-12-31",
+            "accession": "0001628280-26-005345",
+            "filed": "2026-02-04",
+            "form": "10-K",
+            "frame": "CY2024"
+          }
+        }
+      },
+      "cautions": [
+        "Debt tag can include current portion; check 10-K balance sheet before adding current debt to avoid double count."
+      ]
+    },
+    "operating_margin": {
+      "value": 0.0920673638321613,
+      "arithmetic": "3548000000 / 38537000000",
+      "unit": "fraction"
+    }
+  }
+}

@@ -1,0 +1,1067 @@
+{
+  "ticker": "PEP",
+  "name": "PEPSICO INC",
+  "cik": 77476,
+  "run_utc": "2026-10-29T01:48:07.383634+00:00",
+  "price": 123.73,
+  "price_date": "2026-10-07",
+  "folder": "runs\\PEPSICO_INC_PEP_2026-10-29_014807_UTC",
+  "quarterly": null,
+  "filings": {
+    "10-K": {
+      "form": "10-K",
+      "accession": "0000077476-26-000007",
+      "filing_date": "2026-02-03",
+      "report_date": "2025-12-27",
+      "accepted": "2026-02-02T23:07:04.000Z",
+      "primary_document": "pep-20251227.htm",
+      "items": "",
+      "cik": 77476,
+      "index_url": "https://www.sec.gov/Archives/edgar/data/77476/000007747626000007/0000077476-26-000007-index.htm",
+      "primary_url": "https://www.sec.gov/Archives/edgar/data/77476/000007747626000007/pep-20251227.htm",
+      "exhibit_url": ""
+    },
+    "10-Q": {
+      "form": "10-Q",
+      "accession": "0000077476-26-000048",
+      "filing_date": "2026-10-08",
+      "report_date": "2026-09-05",
+      "accepted": "2026-10-07T21:52:53.000Z",
+      "primary_document": "pep-20260905.htm",
+      "items": "",
+      "cik": 77476,
+      "index_url": "https://www.sec.gov/Archives/edgar/data/77476/000007747626000048/0000077476-26-000048-index.htm",
+      "primary_url": "https://www.sec.gov/Archives/edgar/data/77476/000007747626000048/pep-20260905.htm",
+      "exhibit_url": ""
+    },
+    "earnings_8-K": {
+      "form": "8-K",
+      "accession": "0000077476-26-000050",
+      "filing_date": "2026-10-08",
+      "report_date": "2026-10-08",
+      "accepted": "2026-10-07T21:57:44.000Z",
+      "primary_document": "pep-20261008.htm",
+      "items": "2.02,9.01",
+      "cik": 77476,
+      "index_url": "https://www.sec.gov/Archives/edgar/data/77476/000007747626000050/0000077476-26-000050-index.htm",
+      "primary_url": "https://www.sec.gov/Archives/edgar/data/77476/000007747626000050/pep-20261008.htm",
+      "exhibit_url": "https://www.sec.gov/Archives/edgar/data/77476/000007747626000050/q320268-kxexhibit991.htm"
+    }
+  },
+  "facts": {
+    "fiscal_year_end": "2025-12-27",
+    "prior_fiscal_year_end": "2024-12-28",
+    "ten_k_accession": "0000077476-26-000007",
+    "fields": {
+      "revenue": {
+        "current": {
+          "tag": "Revenues",
+          "value": 93925000000,
+          "unit": "USD",
+          "start": "2024-12-29",
+          "end": "2025-12-27",
+          "accession": "0000077476-26-000007",
+          "filed": "2026-02-03",
+          "form": "10-K",
+          "frame": "CY2025"
+        },
+        "prior": {
+          "tag": "Revenues",
+          "value": 91854000000,
+          "unit": "USD",
+          "start": "2023-12-31",
+          "end": "2024-12-28",
+          "accession": "0000077476-26-000007",
+          "filed": "2026-02-03",
+          "form": "10-K",
+          "frame": "CY2024"
+        }
+      },
+      "operating_income": {
+        "current": {
+          "tag": "OperatingIncomeLoss",
+          "value": 11498000000,
+          "unit": "USD",
+          "start": "2024-12-29",
+          "end": "2025-12-27",
+          "accession": "0000077476-26-000007",
+          "filed": "2026-02-03",
+          "form": "10-K",
+          "frame": "CY2025"
+        },
+        "prior": {
+          "tag": "OperatingIncomeLoss",
+          "value": 12887000000,
+          "unit": "USD",
+          "start": "2023-12-31",
+          "end": "2024-12-28",
+          "accession": "0000077476-26-000007",
+          "filed": "2026-02-03",
+          "form": "10-K",
+          "frame": "CY2024"
+        }
+      },
+      "net_income": {
+        "current": {
+          "tag": "NetIncomeLoss",
+          "value": 8240000000,
+          "unit": "USD",
+          "start": "2024-12-29",
+          "end": "2025-12-27",
+          "accession": "0000077476-26-000007",
+          "filed": "2026-02-03",
+          "form": "10-K",
+          "frame": "CY2025"
+        },
+        "prior": {
+          "tag": "NetIncomeLoss",
+          "value": 9578000000,
+          "unit": "USD",
+          "start": "2023-12-31",
+          "end": "2024-12-28",
+          "accession": "0000077476-26-000007",
+          "filed": "2026-02-03",
+          "form": "10-K",
+          "frame": "CY2024"
+        }
+      },
+      "diluted_eps": {
+        "current": {
+          "tag": "EarningsPerShareDiluted",
+          "value": 6,
+          "unit": "USD/shares",
+          "start": "2024-12-29",
+          "end": "2025-12-27",
+          "accession": "0000077476-26-000007",
+          "filed": "2026-02-03",
+          "form": "10-K",
+          "frame": "CY2025"
+        },
+        "prior": {
+          "tag": "EarningsPerShareDiluted",
+          "value": 6.95,
+          "unit": "USD/shares",
+          "start": "2023-12-31",
+          "end": "2024-12-28",
+          "accession": "0000077476-26-000007",
+          "filed": "2026-02-03",
+          "form": "10-K",
+          "frame": "CY2024"
+        }
+      },
+      "equity": {
+        "current": {
+          "tag": "StockholdersEquity",
+          "value": 20406000000,
+          "unit": "USD",
+          "start": null,
+          "end": "2025-12-27",
+          "accession": "0000077476-26-000007",
+          "filed": "2026-02-03",
+          "form": "10-K",
+          "frame": null
+        },
+        "prior": {
+          "tag": "StockholdersEquity",
+          "value": 18041000000,
+          "unit": "USD",
+          "start": null,
+          "end": "2024-12-28",
+          "accession": "0000077476-26-000007",
+          "filed": "2026-02-03",
+          "form": "10-K",
+          "frame": "CY2024Q4I"
+        }
+      },
+      "long_term_debt_noncurrent": {
+        "current": {
+          "tag": "LongTermDebtNoncurrent",
+          "value": 42321000000,
+          "unit": "USD",
+          "start": null,
+          "end": "2025-12-27",
+          "accession": "0000077476-26-000007",
+          "filed": "2026-02-03",
+          "form": "10-K",
+          "frame": "CY2025Q4I"
+        },
+        "prior": {
+          "tag": "LongTermDebtNoncurrent",
+          "value": 37224000000,
+          "unit": "USD",
+          "start": null,
+          "end": "2024-12-28",
+          "accession": "0000077476-26-000007",
+          "filed": "2026-02-03",
+          "form": "10-K",
+          "frame": "CY2024Q4I"
+        }
+      },
+      "long_term_debt_current": {
+        "current": {
+          "value": 4030000000,
+          "tag": "10K_NOTE_CURRENT_MATURITIES_NOT_XBRL",
+          "unit": "USD",
+          "start": null,
+          "end": "2025-12-27",
+          "accession": "0000077476-26-000007",
+          "filed": null,
+          "form": "10-K",
+          "frame": null,
+          "evidence_type": "filing_note",
+          "evidence_line": 5291,
+          "evidence_quote": "Current maturities of long-term debt | $ | 4,030 |  |  | $ | 4,004 |",
+          "table_usd_scale": 1000000
+        },
+        "prior": null
+      },
+      "cash_from_operations": {
+        "current": {
+          "tag": "NetCashProvidedByUsedInOperatingActivities",
+          "value": 12087000000,
+          "unit": "USD",
+          "start": "2024-12-29",
+          "end": "2025-12-27",
+          "accession": "0000077476-26-000007",
+          "filed": "2026-02-03",
+          "form": "10-K",
+          "frame": "CY2025"
+        },
+        "prior": {
+          "tag": "NetCashProvidedByUsedInOperatingActivities",
+          "value": 12507000000,
+          "unit": "USD",
+          "start": "2023-12-31",
+          "end": "2024-12-28",
+          "accession": "0000077476-26-000007",
+          "filed": "2026-02-03",
+          "form": "10-K",
+          "frame": "CY2024"
+        }
+      },
+      "capex": {
+        "current": {
+          "tag": "PaymentsToAcquireProductiveAssets",
+          "value": 4415000000,
+          "unit": "USD",
+          "start": "2024-12-29",
+          "end": "2025-12-27",
+          "accession": "0000077476-26-000007",
+          "filed": "2026-02-03",
+          "form": "10-K",
+          "frame": "CY2025"
+        },
+        "prior": {
+          "tag": "PaymentsToAcquireProductiveAssets",
+          "value": 5318000000,
+          "unit": "USD",
+          "start": "2023-12-31",
+          "end": "2024-12-28",
+          "accession": "0000077476-26-000007",
+          "filed": "2026-02-03",
+          "form": "10-K",
+          "frame": "CY2024"
+        }
+      }
+    },
+    "cautions": [
+      "Current debt portion sourced from saved 10-K note L005291 with USD scale 1,000,000, NOT an SEC XBRL concept; human must verify table units and definition."
+    ]
+  },
+  "ratios": {
+    "revenue_growth": {
+      "value": 0.022546650118666578,
+      "arithmetic": "(93925000000 - 91854000000) / 91854000000",
+      "unit": "fraction"
+    },
+    "operating_margin": {
+      "value": 0.12241682193239287,
+      "arithmetic": "11498000000 / 93925000000",
+      "unit": "fraction"
+    },
+    "return_on_average_equity": {
+      "value": 0.42864202668608736,
+      "arithmetic": "8240000000 / ((20406000000 + 18041000000) / 2)",
+      "unit": "fraction"
+    },
+    "debt_to_equity": {
+      "value": 2.2714397726158975,
+      "arithmetic": "(42321000000 + 4030000000) / 20406000000",
+      "unit": "ratio"
+    },
+    "free_cash_flow": {
+      "value": 7672000000,
+      "arithmetic": "12087000000 - 4415000000",
+      "unit": "USD"
+    },
+    "price_to_earnings": {
+      "value": 20.621666666666666,
+      "arithmetic": "123.73 / 6",
+      "unit": "ratio"
+    }
+  },
+  "release_lines": {
+    "revenue": [],
+    "diluted_eps": [
+      {
+        "line": 17,
+        "text": "Earnings per share (EPS) increased 17% and 47%, respectively"
+      },
+      {
+        "line": 175,
+        "text": "Diluted |  |  |  |  |  |  |"
+      }
+    ]
+  },
+  "peers": {
+    "KO": {
+      "ticker": "KO",
+      "name": "COCA COLA CO",
+      "latest_10k": {
+        "form": "10-K",
+        "accession": "0001628280-26-010047",
+        "filing_date": "2026-02-20",
+        "report_date": "2025-12-31",
+        "accepted": "2026-02-20T14:46:32.000Z",
+        "primary_document": "ko-20251231.htm",
+        "items": "",
+        "cik": 21344,
+        "index_url": "https://www.sec.gov/Archives/edgar/data/21344/000162828026010047/0001628280-26-010047-index.htm",
+        "primary_url": "https://www.sec.gov/Archives/edgar/data/21344/000162828026010047/ko-20251231.htm",
+        "exhibit_url": ""
+      },
+      "facts": {
+        "fiscal_year_end": "2025-12-31",
+        "prior_fiscal_year_end": "2024-12-31",
+        "ten_k_accession": "0001628280-26-010047",
+        "fields": {
+          "revenue": {
+            "current": {
+              "tag": "Revenues",
+              "value": 47941000000,
+              "unit": "USD",
+              "start": "2025-01-01",
+              "end": "2025-12-31",
+              "accession": "0001628280-26-010047",
+              "filed": "2026-02-20",
+              "form": "10-K",
+              "frame": "CY2025"
+            },
+            "prior": {
+              "tag": "Revenues",
+              "value": 47061000000,
+              "unit": "USD",
+              "start": "2024-01-01",
+              "end": "2024-12-31",
+              "accession": "0001628280-26-010047",
+              "filed": "2026-02-20",
+              "form": "10-K",
+              "frame": "CY2024"
+            }
+          },
+          "operating_income": {
+            "current": {
+              "tag": "OperatingIncomeLoss",
+              "value": 13762000000,
+              "unit": "USD",
+              "start": "2025-01-01",
+              "end": "2025-12-31",
+              "accession": "0001628280-26-010047",
+              "filed": "2026-02-20",
+              "form": "10-K",
+              "frame": "CY2025"
+            },
+            "prior": {
+              "tag": "OperatingIncomeLoss",
+              "value": 9992000000,
+              "unit": "USD",
+              "start": "2024-01-01",
+              "end": "2024-12-31",
+              "accession": "0001628280-26-010047",
+              "filed": "2026-02-20",
+              "form": "10-K",
+              "frame": "CY2024"
+            }
+          },
+          "net_income": {
+            "current": {
+              "tag": "NetIncomeLoss",
+              "value": 13107000000,
+              "unit": "USD",
+              "start": "2025-01-01",
+              "end": "2025-12-31",
+              "accession": "0001628280-26-010047",
+              "filed": "2026-02-20",
+              "form": "10-K",
+              "frame": "CY2025"
+            },
+            "prior": {
+              "tag": "NetIncomeLoss",
+              "value": 10631000000,
+              "unit": "USD",
+              "start": "2024-01-01",
+              "end": "2024-12-31",
+              "accession": "0001628280-26-010047",
+              "filed": "2026-02-20",
+              "form": "10-K",
+              "frame": "CY2024"
+            }
+          },
+          "diluted_eps": {
+            "current": {
+              "tag": "EarningsPerShareDiluted",
+              "value": 3.04,
+              "unit": "USD/shares",
+              "start": "2025-01-01",
+              "end": "2025-12-31",
+              "accession": "0001628280-26-010047",
+              "filed": "2026-02-20",
+              "form": "10-K",
+              "frame": "CY2025"
+            },
+            "prior": {
+              "tag": "EarningsPerShareDiluted",
+              "value": 2.46,
+              "unit": "USD/shares",
+              "start": "2024-01-01",
+              "end": "2024-12-31",
+              "accession": "0001628280-26-010047",
+              "filed": "2026-02-20",
+              "form": "10-K",
+              "frame": "CY2024"
+            }
+          },
+          "equity": {
+            "current": {
+              "tag": "StockholdersEquity",
+              "value": 32169000000,
+              "unit": "USD",
+              "start": null,
+              "end": "2025-12-31",
+              "accession": "0001628280-26-010047",
+              "filed": "2026-02-20",
+              "form": "10-K",
+              "frame": null
+            },
+            "prior": {
+              "tag": "StockholdersEquity",
+              "value": 24856000000,
+              "unit": "USD",
+              "start": null,
+              "end": "2024-12-31",
+              "accession": "0001628280-26-010047",
+              "filed": "2026-02-20",
+              "form": "10-K",
+              "frame": "CY2024Q4I"
+            }
+          },
+          "long_term_debt_noncurrent": {
+            "current": {
+              "tag": "LongTermDebtAndCapitalLeaseObligations",
+              "value": 42119000000,
+              "unit": "USD",
+              "start": null,
+              "end": "2025-12-31",
+              "accession": "0001628280-26-010047",
+              "filed": "2026-02-20",
+              "form": "10-K",
+              "frame": null
+            },
+            "prior": {
+              "tag": "LongTermDebtAndCapitalLeaseObligations",
+              "value": 42375000000,
+              "unit": "USD",
+              "start": null,
+              "end": "2024-12-31",
+              "accession": "0001628280-26-010047",
+              "filed": "2026-02-20",
+              "form": "10-K",
+              "frame": "CY2024Q4I"
+            }
+          },
+          "long_term_debt_current": {
+            "current": {
+              "tag": "LongTermDebtAndCapitalLeaseObligationsCurrent",
+              "value": 1822000000,
+              "unit": "USD",
+              "start": null,
+              "end": "2025-12-31",
+              "accession": "0001628280-26-010047",
+              "filed": "2026-02-20",
+              "form": "10-K",
+              "frame": null
+            },
+            "prior": {
+              "tag": "LongTermDebtAndCapitalLeaseObligationsCurrent",
+              "value": 648000000,
+              "unit": "USD",
+              "start": null,
+              "end": "2024-12-31",
+              "accession": "0001628280-26-010047",
+              "filed": "2026-02-20",
+              "form": "10-K",
+              "frame": "CY2024Q4I"
+            }
+          },
+          "cash_from_operations": {
+            "current": {
+              "tag": "NetCashProvidedByUsedInOperatingActivities",
+              "value": 7408000000,
+              "unit": "USD",
+              "start": "2025-01-01",
+              "end": "2025-12-31",
+              "accession": "0001628280-26-010047",
+              "filed": "2026-02-20",
+              "form": "10-K",
+              "frame": "CY2025"
+            },
+            "prior": {
+              "tag": "NetCashProvidedByUsedInOperatingActivities",
+              "value": 6805000000,
+              "unit": "USD",
+              "start": "2024-01-01",
+              "end": "2024-12-31",
+              "accession": "0001628280-26-010047",
+              "filed": "2026-02-20",
+              "form": "10-K",
+              "frame": "CY2024"
+            }
+          },
+          "capex": {
+            "current": {
+              "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
+              "value": 2112000000,
+              "unit": "USD",
+              "start": "2025-01-01",
+              "end": "2025-12-31",
+              "accession": "0001628280-26-010047",
+              "filed": "2026-02-20",
+              "form": "10-K",
+              "frame": "CY2025"
+            },
+            "prior": {
+              "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
+              "value": 2064000000,
+              "unit": "USD",
+              "start": "2024-01-01",
+              "end": "2024-12-31",
+              "accession": "0001628280-26-010047",
+              "filed": "2026-02-20",
+              "form": "10-K",
+              "frame": "CY2024"
+            }
+          }
+        },
+        "cautions": [
+          "Debt tag can include current portion; check 10-K balance sheet before adding current debt to avoid double count."
+        ]
+      },
+      "operating_margin": {
+        "value": 0.28706117936630443,
+        "arithmetic": "13762000000 / 47941000000",
+        "unit": "fraction"
+      }
+    },
+    "KDP": {
+      "ticker": "KDP",
+      "name": "Keurig Dr Pepper Inc.",
+      "latest_10k": {
+        "form": "10-K",
+        "accession": "0001418135-26-000016",
+        "filing_date": "2026-02-24",
+        "report_date": "2025-12-31",
+        "accepted": "2026-02-24T21:56:33.000Z",
+        "primary_document": "kdp-20251231.htm",
+        "items": "",
+        "cik": 1418135,
+        "index_url": "https://www.sec.gov/Archives/edgar/data/1418135/000141813526000016/0001418135-26-000016-index.htm",
+        "primary_url": "https://www.sec.gov/Archives/edgar/data/1418135/000141813526000016/kdp-20251231.htm",
+        "exhibit_url": ""
+      },
+      "facts": {
+        "fiscal_year_end": "2025-12-31",
+        "prior_fiscal_year_end": "2024-12-31",
+        "ten_k_accession": "0001418135-26-000016",
+        "fields": {
+          "revenue": {
+            "current": {
+              "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+              "value": 16603000000,
+              "unit": "USD",
+              "start": "2025-01-01",
+              "end": "2025-12-31",
+              "accession": "0001418135-26-000016",
+              "filed": "2026-02-24",
+              "form": "10-K",
+              "frame": "CY2025"
+            },
+            "prior": {
+              "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+              "value": 15351000000,
+              "unit": "USD",
+              "start": "2024-01-01",
+              "end": "2024-12-31",
+              "accession": "0001418135-26-000016",
+              "filed": "2026-02-24",
+              "form": "10-K",
+              "frame": "CY2024"
+            }
+          },
+          "operating_income": {
+            "current": {
+              "tag": "OperatingIncomeLoss",
+              "value": 3575000000,
+              "unit": "USD",
+              "start": "2025-01-01",
+              "end": "2025-12-31",
+              "accession": "0001418135-26-000016",
+              "filed": "2026-02-24",
+              "form": "10-K",
+              "frame": "CY2025"
+            },
+            "prior": {
+              "tag": "OperatingIncomeLoss",
+              "value": 2591000000,
+              "unit": "USD",
+              "start": "2024-01-01",
+              "end": "2024-12-31",
+              "accession": "0001418135-26-000016",
+              "filed": "2026-02-24",
+              "form": "10-K",
+              "frame": "CY2024"
+            }
+          },
+          "net_income": {
+            "current": {
+              "tag": "NetIncomeLoss",
+              "value": 2079000000,
+              "unit": "USD",
+              "start": "2025-01-01",
+              "end": "2025-12-31",
+              "accession": "0001418135-26-000016",
+              "filed": "2026-02-24",
+              "form": "10-K",
+              "frame": null
+            },
+            "prior": {
+              "tag": "NetIncomeLoss",
+              "value": 1441000000,
+              "unit": "USD",
+              "start": "2024-01-01",
+              "end": "2024-12-31",
+              "accession": "0001418135-26-000016",
+              "filed": "2026-02-24",
+              "form": "10-K",
+              "frame": null
+            }
+          },
+          "diluted_eps": {
+            "current": {
+              "tag": "EarningsPerShareDiluted",
+              "value": 1.53,
+              "unit": "USD/shares",
+              "start": "2025-01-01",
+              "end": "2025-12-31",
+              "accession": "0001418135-26-000016",
+              "filed": "2026-02-24",
+              "form": "10-K",
+              "frame": "CY2025"
+            },
+            "prior": {
+              "tag": "EarningsPerShareDiluted",
+              "value": 1.05,
+              "unit": "USD/shares",
+              "start": "2024-01-01",
+              "end": "2024-12-31",
+              "accession": "0001418135-26-000016",
+              "filed": "2026-02-24",
+              "form": "10-K",
+              "frame": "CY2024"
+            }
+          },
+          "equity": {
+            "current": {
+              "tag": "StockholdersEquity",
+              "value": 25516000000,
+              "unit": "USD",
+              "start": null,
+              "end": "2025-12-31",
+              "accession": "0001418135-26-000016",
+              "filed": "2026-02-24",
+              "form": "10-K",
+              "frame": null
+            },
+            "prior": {
+              "tag": "StockholdersEquity",
+              "value": 24243000000,
+              "unit": "USD",
+              "start": null,
+              "end": "2024-12-31",
+              "accession": "0001418135-26-000016",
+              "filed": "2026-02-24",
+              "form": "10-K",
+              "frame": null
+            }
+          },
+          "long_term_debt_noncurrent": {
+            "current": {
+              "tag": "LongTermDebtNoncurrent",
+              "value": 13036000000,
+              "unit": "USD",
+              "start": null,
+              "end": "2025-12-31",
+              "accession": "0001418135-26-000016",
+              "filed": "2026-02-24",
+              "form": "10-K",
+              "frame": null
+            },
+            "prior": {
+              "tag": "LongTermDebtNoncurrent",
+              "value": 12912000000,
+              "unit": "USD",
+              "start": null,
+              "end": "2024-12-31",
+              "accession": "0001418135-26-000016",
+              "filed": "2026-02-24",
+              "form": "10-K",
+              "frame": "CY2024Q4I"
+            }
+          },
+          "long_term_debt_current": {
+            "current": {
+              "tag": "LongTermDebtCurrent",
+              "value": 895000000,
+              "unit": "USD",
+              "start": null,
+              "end": "2025-12-31",
+              "accession": "0001418135-26-000016",
+              "filed": "2026-02-24",
+              "form": "10-K",
+              "frame": null
+            },
+            "prior": {
+              "tag": "LongTermDebtCurrent",
+              "value": 1026000000,
+              "unit": "USD",
+              "start": null,
+              "end": "2024-12-31",
+              "accession": "0001418135-26-000016",
+              "filed": "2026-02-24",
+              "form": "10-K",
+              "frame": "CY2024Q4I"
+            }
+          },
+          "cash_from_operations": {
+            "current": {
+              "tag": "NetCashProvidedByUsedInOperatingActivities",
+              "value": 1991000000,
+              "unit": "USD",
+              "start": "2025-01-01",
+              "end": "2025-12-31",
+              "accession": "0001418135-26-000016",
+              "filed": "2026-02-24",
+              "form": "10-K",
+              "frame": "CY2025"
+            },
+            "prior": {
+              "tag": "NetCashProvidedByUsedInOperatingActivities",
+              "value": 2219000000,
+              "unit": "USD",
+              "start": "2024-01-01",
+              "end": "2024-12-31",
+              "accession": "0001418135-26-000016",
+              "filed": "2026-02-24",
+              "form": "10-K",
+              "frame": "CY2024"
+            }
+          },
+          "capex": {
+            "current": {
+              "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
+              "value": 486000000,
+              "unit": "USD",
+              "start": "2025-01-01",
+              "end": "2025-12-31",
+              "accession": "0001418135-26-000016",
+              "filed": "2026-02-24",
+              "form": "10-K",
+              "frame": "CY2025"
+            },
+            "prior": {
+              "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
+              "value": 563000000,
+              "unit": "USD",
+              "start": "2024-01-01",
+              "end": "2024-12-31",
+              "accession": "0001418135-26-000016",
+              "filed": "2026-02-24",
+              "form": "10-K",
+              "frame": "CY2024"
+            }
+          }
+        },
+        "cautions": [
+          "Revenue uses contract-sales tag; verify it includes total revenue (e.g. membership/other income), not net sales only."
+        ]
+      },
+      "operating_margin": {
+        "value": 0.215322532072517,
+        "arithmetic": "3575000000 / 16603000000",
+        "unit": "fraction"
+      }
+    },
+    "MDLZ": {
+      "ticker": "MDLZ",
+      "name": "Mondelez International, Inc.",
+      "latest_10k": {
+        "form": "10-K",
+        "accession": "0001628280-26-005345",
+        "filing_date": "2026-02-04",
+        "report_date": "2025-12-31",
+        "accepted": "2026-02-04T17:39:46.000Z",
+        "primary_document": "mdlz-20251231.htm",
+        "items": "",
+        "cik": 1103982,
+        "index_url": "https://www.sec.gov/Archives/edgar/data/1103982/000162828026005345/0001628280-26-005345-index.htm",
+        "primary_url": "https://www.sec.gov/Archives/edgar/data/1103982/000162828026005345/mdlz-20251231.htm",
+        "exhibit_url": ""
+      },
+      "facts": {
+        "fiscal_year_end": "2025-12-31",
+        "prior_fiscal_year_end": "2024-12-31",
+        "ten_k_accession": "0001628280-26-005345",
+        "fields": {
+          "revenue": {
+            "current": {
+              "tag": "Revenues",
+              "value": 38537000000,
+              "unit": "USD",
+              "start": "2025-01-01",
+              "end": "2025-12-31",
+              "accession": "0001628280-26-005345",
+              "filed": "2026-02-04",
+              "form": "10-K",
+              "frame": "CY2025"
+            },
+            "prior": {
+              "tag": "Revenues",
+              "value": 36441000000,
+              "unit": "USD",
+              "start": "2024-01-01",
+              "end": "2024-12-31",
+              "accession": "0001628280-26-005345",
+              "filed": "2026-02-04",
+              "form": "10-K",
+              "frame": "CY2024"
+            }
+          },
+          "operating_income": {
+            "current": {
+              "tag": "OperatingIncomeLoss",
+              "value": 3548000000,
+              "unit": "USD",
+              "start": "2025-01-01",
+              "end": "2025-12-31",
+              "accession": "0001628280-26-005345",
+              "filed": "2026-02-04",
+              "form": "10-K",
+              "frame": "CY2025"
+            },
+            "prior": {
+              "tag": "OperatingIncomeLoss",
+              "value": 6345000000,
+              "unit": "USD",
+              "start": "2024-01-01",
+              "end": "2024-12-31",
+              "accession": "0001628280-26-005345",
+              "filed": "2026-02-04",
+              "form": "10-K",
+              "frame": "CY2024"
+            }
+          },
+          "net_income": {
+            "current": {
+              "tag": "NetIncomeLoss",
+              "value": 2451000000,
+              "unit": "USD",
+              "start": "2025-01-01",
+              "end": "2025-12-31",
+              "accession": "0001628280-26-005345",
+              "filed": "2026-02-04",
+              "form": "10-K",
+              "frame": "CY2025"
+            },
+            "prior": {
+              "tag": "NetIncomeLoss",
+              "value": 4611000000,
+              "unit": "USD",
+              "start": "2024-01-01",
+              "end": "2024-12-31",
+              "accession": "0001628280-26-005345",
+              "filed": "2026-02-04",
+              "form": "10-K",
+              "frame": "CY2024"
+            }
+          },
+          "diluted_eps": {
+            "current": {
+              "tag": "EarningsPerShareDiluted",
+              "value": 1.89,
+              "unit": "USD/shares",
+              "start": "2025-01-01",
+              "end": "2025-12-31",
+              "accession": "0001628280-26-005345",
+              "filed": "2026-02-04",
+              "form": "10-K",
+              "frame": "CY2025"
+            },
+            "prior": {
+              "tag": "EarningsPerShareDiluted",
+              "value": 3.42,
+              "unit": "USD/shares",
+              "start": "2024-01-01",
+              "end": "2024-12-31",
+              "accession": "0001628280-26-005345",
+              "filed": "2026-02-04",
+              "form": "10-K",
+              "frame": "CY2024"
+            }
+          },
+          "equity": {
+            "current": {
+              "tag": "StockholdersEquity",
+              "value": 25838000000,
+              "unit": "USD",
+              "start": null,
+              "end": "2025-12-31",
+              "accession": "0001628280-26-005345",
+              "filed": "2026-02-04",
+              "form": "10-K",
+              "frame": null
+            },
+            "prior": {
+              "tag": "StockholdersEquity",
+              "value": 26932000000,
+              "unit": "USD",
+              "start": null,
+              "end": "2024-12-31",
+              "accession": "0001628280-26-005345",
+              "filed": "2026-02-04",
+              "form": "10-K",
+              "frame": "CY2024Q4I"
+            }
+          },
+          "long_term_debt_noncurrent": {
+            "current": {
+              "tag": "LongTermDebtAndCapitalLeaseObligations",
+              "value": 17222000000,
+              "unit": "USD",
+              "start": null,
+              "end": "2025-12-31",
+              "accession": "0001628280-26-005345",
+              "filed": "2026-02-04",
+              "form": "10-K",
+              "frame": null
+            },
+            "prior": {
+              "tag": "LongTermDebtAndCapitalLeaseObligations",
+              "value": 15664000000,
+              "unit": "USD",
+              "start": null,
+              "end": "2024-12-31",
+              "accession": "0001628280-26-005345",
+              "filed": "2026-02-04",
+              "form": "10-K",
+              "frame": "CY2024Q4I"
+            }
+          },
+          "long_term_debt_current": {
+            "current": {
+              "tag": "LongTermDebtAndCapitalLeaseObligationsCurrent",
+              "value": 1295000000,
+              "unit": "USD",
+              "start": null,
+              "end": "2025-12-31",
+              "accession": "0001628280-26-005345",
+              "filed": "2026-02-04",
+              "form": "10-K",
+              "frame": null
+            },
+            "prior": {
+              "tag": "LongTermDebtAndCapitalLeaseObligationsCurrent",
+              "value": 2014000000,
+              "unit": "USD",
+              "start": null,
+              "end": "2024-12-31",
+              "accession": "0001628280-26-005345",
+              "filed": "2026-02-04",
+              "form": "10-K",
+              "frame": "CY2024Q4I"
+            }
+          },
+          "cash_from_operations": {
+            "current": {
+              "tag": "NetCashProvidedByUsedInOperatingActivities",
+              "value": 4514000000,
+              "unit": "USD",
+              "start": "2025-01-01",
+              "end": "2025-12-31",
+              "accession": "0001628280-26-005345",
+              "filed": "2026-02-04",
+              "form": "10-K",
+              "frame": "CY2025"
+            },
+            "prior": {
+              "tag": "NetCashProvidedByUsedInOperatingActivities",
+              "value": 4910000000,
+              "unit": "USD",
+              "start": "2024-01-01",
+              "end": "2024-12-31",
+              "accession": "0001628280-26-005345",
+              "filed": "2026-02-04",
+              "form": "10-K",
+              "frame": "CY2024"
+            }
+          },
+          "capex": {
+            "current": {
+              "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
+              "value": 1279000000,
+              "unit": "USD",
+              "start": "2025-01-01",
+              "end": "2025-12-31",
+              "accession": "0001628280-26-005345",
+              "filed": "2026-02-04",
+              "form": "10-K",
+              "frame": "CY2025"
+            },
+            "prior": {
+              "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
+              "value": 1387000000,
+              "unit": "USD",
+              "start": "2024-01-01",
+              "end": "2024-12-31",
+              "accession": "0001628280-26-005345",
+              "filed": "2026-02-04",
+              "form": "10-K",
+              "frame": "CY2024"
+            }
+          }
+        },
+        "cautions": [
+          "Debt tag can include current portion; check 10-K balance sheet before adding current debt to avoid double count."
+        ]
+      },
+      "operating_margin": {
+        "value": 0.0920673638321613,
+        "arithmetic": "3548000000 / 38537000000",
+        "unit": "fraction"
+      }
+    }
+  },
+  "excerpts": {
+    "10-K": "L000001 | pep-20251227\nL000002 | false\nL000003 | 2025\nL000004 | FY\nL000005 | 0000077476\nL000006 | 0.0167\nL000007 | 0.0167\nL000008 | 84\nL000009 | 84\nL000010 | 84\nL000011 | 112\nL000012 | P5Y\nL000013 | http://fasb.org/us-gaap/2025#OtherAssetsNoncurrent\nL000014 | http://fasb.org/us-gaap/2025#OtherAssetsNoncurrent\nL000015 | http://fasb.org/us-gaap/2025#AccountsPayableAndAccruedLiabilitiesCurrent\nL000016 | http://fasb.org/us-gaap/2025#AccountsPayableAndAccruedLiabilitiesCurrent\nL000017 | http://fasb.org/us-gaap/2025#OtherLiabilitiesNoncurrent\nL000018 | http://fasb.org/us-gaap/2025#OtherLiabilitiesNoncurrent\nL000019 | http://fasb.org/us-gaap/2025#OtherLiabilities\nL000020 | http://fasb.org/us-gaap/2025#AccountsPayableAndAccruedLiabilitiesCurrent\nL000021 | http://fasb.org/us-gaap/2025#AccountsPayableAndAccruedLiabilitiesCurrent\nL000022 | http://fasb.org/us-gaap/2025#AccountsPayableAndAccruedLiabilitiesCurrent\nL000023 | http://fasb.org/us-gaap/2025#AccountsPayableAndAccruedLiabilitiesCurrent\nL000024 | iso4217:USD\nL000025 | xbrli:shares\nL000026 | iso4217:USD\nL000027 | xbrli:shares\nL000028 | xbrli:pure\nL000029 | pep:segment\nL000030 | pep:country\nL000031 | pep:option\nL000032 | pep:rSU\nL000033 | iso4217:EUR\nL000034 | 0000077476\nL000035 | 2024-12-29\nL000036 | 2025-12-27\nL000037 | 0000077476\nL000038 | us-gaap:CommonStockMember\nL000039 | 2024-12-29\nL000040 | 2025-12-27\nL000041 | 0000077476\nL000042 | pep:TwoPointSixTwoFivePercentNotesDue2026Member\nL000043 | 2024-12-29\nL000044 | 2025-12-27\nL000045 | 0000077476\nL000046 | pep:ZeroPointSevenFivePercentNotesDue2027Member\nL000047 | 2024-12-29\nL000048 | 2025-12-27\nL000049 | 0000077476\nL000050 | pep:ZeroPointEightSevenFivePercentNotesDue2028Member\nL000051 | 2024-12-29\nL000052 | 2025-12-27\nL000053 | 0000077476\nL000054 | pep:ZeroPointFivePercentNotesDue2028Member\nL000055 | 2024-12-29\nL000056 | 2025-12-27\nL000057 | 0000077476\nL000058 | pep:ThreePointTwoPercentNotesDue2029Member\nL000059 | 2024-12-29\nL000060 | 2025-12-27\nL000061 | 0000077476\nL000062 | pep:OnePointOneTwoFivePercentNotesDue2031Member\nL000063 | 2024-12-29\nL000064 | 2025-12-27\nL000065 | 0000077476\nL000066 | pep:ZeroPointFourPercentNotesDue2032Member\nL000067 | 2024-12-29\nL000068 | 2025-12-27\nL000069 | 0000077476\nL000070 | pep:ZeroPointSevenFivePercentNotesDue2033Member\nL000071 | 2024-12-29\nL000072 | 2025-12-27\nL000073 | 0000077476\nL000074 | pep:ThreePointFiveFivePercentNotesDue2034Member\nL000075 | 2024-12-29\nL000076 | 2025-12-27\nL000077 | 0000077476\nL000078 | pep:ThreePointFourFivePercentNotesDue2037Member\nL000079 | 2024-12-29\nL000080 | 2025-12-27\nL000081 | 0000077476\nL000082 | pep:ZeroPointEightSevenFiveNotesDue2039Member\nL000083 | 2024-12-29\nL000084 | 2025-12-27\nL000085 | 0000077476\nL000086 | pep:OnePointZeroFivePercentNotesDue2050Member\nL000087 | 2024-12-29\nL000088 | 2025-12-27\nL000089 | 0000077476\nL000090 | pep:FourPointZeroFivePercentNotesDue2055Member\nL000091 | 2024-12-29\nL000092 | 2025-12-27\nL000093 | 0000077476\nL000094 | 2025-06-13\nL000095 | 0000077476\nL000096 | 2026-01-23\nL000097 | 0000077476\nL000098 | 2023-12-31\nL000099 | 2024-12-28\nL000100 | 0000077476\nL000101 | 2023-01-01\nL000102 | 2023-12-30\nL000103 | 0000077476\nL000104 | 2024-12-28\nL000105 | 0000077476\nL000106 | 2023-12-30\nL000107 | 0000077476\nL000108 | 2022-12-31\nL000109 | 0000077476\nL000110 | 2025-12-27\nL000111 | 0000077476\nL000112 | us-gaap:CommonStockMember\nL000113 | 2024-12-28\nL000114 | 0000077476\nL000115 | us-gaap:CommonStockMember\nL000116 | 2023-12-30\nL000117 | 0000077476\nL000118 | us-gaap:CommonStockMember\nL000119 | 2022-12-31\nL000120 | 0000077476\nL000121 | us-gaap:CommonStockMember\nL000122 | 2024-12-29\nL000123 | 2025-12-27\nL000124 | 0000077476\nL000125 | us-gaap:CommonStockMember\nL000126 | 2023-12-31\nL000127 | 2024-12-28\nL000128 | 0000077476\nL000129 | us-gaap:CommonStockMember\nL000130 | 2023-01-01\nL000131 | 2023-12-30\nL000132 | 0000077476\nL000133 | us-gaap:CommonStockMember\nL000134 | 2025-12-27\nL000135 | 0000077476\nL000136 | us-gaap:AdditionalPaidInCapitalMember\nL000137 | 2024-12-28\nL000138 | 0000077476\nL000139 | us-gaap:AdditionalPaidInCapitalMember\nL000140 | 2023-12-30\nL000141 | 0000077476\nL000142 | us-gaap:AdditionalPaidInCapitalMember\nL000143 | 2022-12-31\nL000144 | 0000077476\nL000145 | us-gaap:AdditionalPaidInCapitalMember\nL000146 | 2024-12-29\nL000147 | 2025-12-27\nL000148 | 0000077476\nL000149 | us-gaap:AdditionalPaidInCapitalMember\nL000150 | 2023-12-31\nL000151 | 2024-12-28\nL000152 | 0000077476\nL000153 | us-gaap:AdditionalPaidInCapitalMember\nL000154 | 2023-01-01\nL000155 | 2023-12-30\nL000156 | 0000077476\nL000157 | us-gaap:AdditionalPaidInCapitalMember\nL000158 | 2025-12-27\nL000159 | 0000077476\nL000160 | us-gaap:RetainedEarningsMember\nL003265 | •\nL003266 | On April 11, 2025, the Commissioner of the Department of Licensing and Consumer Affairs and Government of the United States Virgin Islands filed a lawsuit against PepsiCo, Inc., PepsiCo Caribbean, Inc., and two other unrelated parties (the USVI Matter). The lawsuit was initially filed in the Superior Court of the United States Virgin Islands, Division of St. Croix. On May 19, 2025, the defendants removed the case to federal court in the United States District Court of the Virgin Islands, Divisio\nL003267 | The lawsuits mentioned above do not specify the amount of damages sought and we believe we have strong defenses to each of the respective claims.\nL003268 | In addition, we and our subsidiaries are party to a variety of litigation, claims, legal or regulatory proceedings, inquiries and investigations. While the results of the NYS Matter, Baltimore Matter, Los Angeles Matter, USVI Matter and each such other litigation, claim, legal or regulatory proceeding, inquiry and investigation cannot be predicted with certainty, management believes that the final outcome of the foregoing will not have a material adverse effect on our financial condition, result\nL003269 | Item 4.  Mine Safety Disclosures.\nL003270 | Not applicable.\nL003271 | 27\nL003272 | Table of Contents\nL003273 | Information About Our Executive Officers\nL003274 | The following is a list of names, ages and backgrounds of our current executive officers as of the date of filing of this Form 10-K with the SEC:\nL003275 | Name |  | Age |  | Title\nL003276 | David J. Flavell |  | 54 |  | Executive Vice President, General Counsel and Corporate Secretary, PepsiCo\nL003277 | Athina Kanioura |  | 49 |  | Chief Executive Officer, PepsiCo Latin America Foods and Executive Vice President, Strategy & Transformation Officer\nL003278 | Ram Krishnan |  | 55 |  | Chief Executive Officer, PepsiCo North America\nL003279 | Ramon L. Laguarta |  | 62 |  | Chairman of the Board of Directors and Chief Executive Officer, PepsiCo\nL003280 | Silviu Popovici |  | 58 |  | Chief Executive Officer, Europe, Middle East and Africa\nL003281 | Becky Schmitt |  | 52 |  | Executive Vice President and Chief People Officer, PepsiCo\nL003282 | Stephen T. Schmitt |  | 52 |  | Executive Vice President and Chief Financial Officer, PepsiCo\nL003283 | Christine E. Tammara |  | 48 |  | Senior Vice President and Controller, PepsiCo\nL003284 | Eugene Willemsen |  | 58 |  | Chief Executive Officer, International Beverages\nL003285 | David J. Flavell\nL003286 | has served as Executive Vice President, General Counsel and Corporate Secretary, PepsiCo since 2021. Mr. Flavell previously held a number of leadership roles at PepsiCo, including as Senior Vice President, Deputy General Counsel and Chief Compliance & Ethics Officer for PepsiCo from 2019 to 2021, as Senior Vice President, Deputy General Counsel & Managing Attorney from 2018 to 2019, as Senior Vice President, Deputy General Counsel & General Counsel, International and Global Groups from 2017 to 2\nL003287 | Athina Kanioura\nL003288 | was appointed Chief Executive Officer, PepsiCo Latin America Foods and Executive Vice President, Strategy & Transformation Officer in December 2025. Ms. Kanioura previously served as Executive Vice President and Chief Strategy and Transformation Officer, PepsiCo from 2020 to December 2025. Prior to joining PepsiCo, Ms. Kanioura served as Chief Analytics Officer and Global Head of Applied Intelligence at Accenture plc from 2019 to 2020 and as its Global Data Science Lead from 2017 to 2019. Since \nL003289 | Ram Krishnan\nL003290 | was appointed Chief Executive Officer, PepsiCo North America, effective December 2025. Prior to that, Mr. Krishnan served as Chief Executive Officer, U.S. Beverages from January 2025 to December 2025, as Chief Executive Officer, PepsiCo Beverages North America from February 2024 to January 2025, as Chief Executive Officer, International Beverages and Chief Commercial Officer of PepsiCo from 2022 to February 2024, as Executive Vice President and Chief Commercial Officer, PepsiCo, from 2019 to 202\nL003291 | 28\nL003292 | Table of Contents\nL003293 | as Vice President of Global Brands, Frito-Lay North America from 2011 to 2012. Prior to PepsiCo, Mr. Krishnan spent six years at General Motors Company as a marketing manager for Cadillac.\nL003294 | Ramon L. Laguarta\nL003295 | has served as PepsiCo’s Chief Executive Officer and a director on the Board since 2018, and assumed the role of Chairman of the Board in 2019. Mr. Laguarta previously served as President of PepsiCo from 2017 to 2018. Prior to serving as President, Mr. Laguarta held a variety of positions of increasing responsibility in Europe, including as Commercial Vice President of PepsiCo Europe from 2006 to 2008, PepsiCo Eastern Europe Region from 2008 to 2012, President, Developing & Emerging Markets, Peps\nL003296 | Silviu Popovici\nL003297 | was appointed Chief Executive Officer, Europe, Middle East and Africa, effective January 2025. Prior to this role, he served as Chief Executive Officer, Europe from 2019 to 2024 and as Chief Executive Officer, Europe Sub-Saharan Africa in 2019 and as President, Europe Sub-Saharan Africa from 2017 to early 2019. Mr. Popovici previously served as President, Russia, Ukraine and CIS (The Commonwealth of Independent States) from 2015 to 2017, and as President, PepsiCo Russia from\nL003298 | 2013 to 2015. Mr. Popovici joined PepsiCo in 2011 following PepsiCo’s acquisition of Wimm-Bill-Dann Foods OJSC (WBD) and served as General Manager, WBD Foods Division from 2011 until 2012. Prior to the acquisition, Mr. Popovici held senior leadership roles at WBD, running its dairy business from 2008 to 2011 and its beverages business from 2006 to 2008.\nL003299 | Becky Schmitt\nL003300 | has served as Executive Vice President and Chief People Officer, PepsiCo, since June 2023. Prior to that, Ms. Schmitt served as Executive Vice President, Chief People Officer of Cognizant Technology Solutions Corp. from 2020 to 2023. Prior to joining Cognizant, Ms. Schmitt served in various executive human resources roles at Walmart, Inc., including as Senior Vice President, Chief People Officer of Sam’s Club, a division of Walmart, from 2018 to 2020, Senior Vice President, Chief People Officer \nL003301 | Stephen T. Schmitt\nL003302 | was appointed Executive Vice President and Chief Financial Officer, effective November 2025. Prior to that, Mr. Schmitt served as Executive Vice President and Chief Financial Officer for Walmart U.S. from 2021 to November 2025, as Executive Vice President and Chief Financial Officer for Walmart U.S. Omni-Channel during 2021, as Senior Vice President and Chief Financial Officer for Walmart U.S. eCommerce from 2019 to 2020 and as Senior Vice President and Chief Financial Officer for Sam’s Club fro\nL003303 | Christine E. Tammara\nL003304 | was appointed Senior Vice President and Controller, PepsiCo effective May 2025. Prior to that, Ms. Tammara served as Senior Vice President, Controller, PepsiCo Beverages North America from 2023 to May 2025, as Senior Vice President and General Auditor from 2021 to 2023 and as Vice President and Assistant Controller, Technical Accounting and Policy from 2016 to 2021 and held a succession of roles in PepsiCo’s Control function. Prior to joining PepsiCo in 2007, Ms. Tammara worked in external repor\nL003305 | 29\nL003306 | Table of Contents\nL003307 | Eugene Willemsen\nL003308 | was appointed Chief Executive Officer, International Beverages, effective January 2025. Previously, he served as Chief Executive Officer, Africa, Middle East, South Asia and International Beverages in 2024, as Chief Executive Officer, Africa, Middle East, South Asia from 2019 to February 2024, as Chief Executive Officer, Sub-Saharan Africa in 2019 and as Executive Vice President, Global Categories and Franchise Management from 2015 to 2019. Before that, he led the global Pepsi-Lipton Joint Ventu\nL003309 | Executive officers are elected by our Board, and their terms of office continue until the next annual meeting of the Board or until their successors are elected and have qualified. There are no family relationships among our executive officers.\nL003310 | 30\nL003311 | Table of Contents\nL003312 | PART II\nL003313 | Item 5.  Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities.\nL003314 | Stock Trading Symbol – PEP.\nL003315 | Stock Exchange Listings – The Nasdaq Global Select Market is the principal market for our common stock, which is also listed on the SIX Swiss Exchange.\nL003316 | Shareholders – As of January 23, 2026, there were approximately 87,254 shareholders of record of our common stock.\nL003317 | Dividends – We have paid consecutive quarterly cash dividends since 1965. The declaration and payment of future dividends are at the discretion of the Board. Dividends are usually declared in February, May, July and November and paid at the end of March, June and September and the beginning of January. For 2026, the record dates for these dividend payments are expected to be March 6, June 5, September 4 and December 4, 2026, subject to the approval of the Board.\nL003318 | On February 3, 2026, we announced a 4% increase in our annualized dividend to $5.92 per share from $5.69 per share, effective with the dividend expected to be paid in June 2026. We expect to return a total of approximately $8.9 billion to shareholders in 2026, comprising dividends of approximately $7.9 billion and share repurchases of approximately $1.0 billion.\nL003319 | For information on securities authorized for issuance under our equity compensation plans, see “Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters.”\nL003320 | A summary of our common stock repurchases (in millions, except average price per share) during the fourth quarter of 2025 is set forth in the table below.\nL003321 | Issuer Purchases of Common Stock\nL003322 | Period | Total Number of Shares Repurchased (a) |  | Average Price Paid Per Share |  | Total Number of Shares Purchased as Part of Publicly Announced Plans or Programs |  | Approximate Dollar Value of Shares That May Yet Be Purchased Under the Plans or Programs\nL003323 | 9/6/2025 |  |  |  |  |  |  | $ | 5,740 |\nL003324 | 9/7/2025-10/4/2025 | 0.7 |  |  | $ | 141.35 |  |  | 0.7 |  |  | (97) |\nL003325 | |  |  |  |  |  |  | 5,643 |\nL003326 | 10/5/2025-11/1/2025 | 0.4 |  |  | $ | 149.10 |  |  | 0.4 |  |  | (61) |\nL003327 | |  |  |  |  |  |  | 5,582 |\nL003328 | 11/2/2025-11/29/2025 | 0.3 |  |  | $ | 145.16 |  |  | 0.3 |  |  | (50) |\nL003329 | |  |  |  |  |  |  | 5,532 |\nL003330 | 11/30/2025-12/27/2025 | 0.2 |  |  | $ | 147.53 |  |  | 0.2 |  |  | (32) |\nL003331 | Total | 1.6 |  |  | $ | 144.88 |  |  | 1.6 |  |  | $ | 5,500 |\nL003332 | (a)\nL003333 | All shares were repurchased in open market transactions pursuant to the $10 billion repurchase program authorized by our Board and publicly announced on February 10, 2022, which commenced on February 11, 2022 and was originally set to expire on February 28, 2026. On February 3, 2026, we announced a new share repurchase program providing for the repurchase of up to $10 billion of PepsiCo common stock which commenced on February 1, 2026 and will expire on February 28, 2030 (2026 Share Repurchase P\nL003334 | 31\nL003335 | Table of Contents\nL003336 | Item 7.  Management’s Discussion and Analysis of Financial Condition and Results of Operations.\nL003337 | OUR BUSINESS |\nL003338 | Executive Overview | 33\nL003339 | Our Operations | 34\nL003340 | Other Relationships | 34\nL003341 | Our Business Risks | 34\nL003342 | OUR FINANCIAL RESULTS |\nL003343 | Results of Operations – Consolidated Review | 40\nL003344 | Results of Operations – Segment Review | 41\nL003345 | PFNA | 43\nL003346 | PBNA | 43\nL003347 | IB Franchise | 43\nL003348 | EMEA | 44\nL003349 | LatAm Foods | 44\nL003350 | Asia Pacific Foods | 44\nL003351 | Non-GAAP Measures | 44\nL003352 | Items Affecting Comparability | 46\nL003353 | Our Liquidity and Capital Resources | 49\nL003354 | Return on Invested Capital | 51\nL003355 | OUR CRITICAL ACCOUNTING POLICIES AND ESTIMATES |\nL003356 | Revenue Recognition | 52\nL003357 | Goodwill and Other Intangible Assets | 53\nL003358 | Income Tax Expense and Accruals | 54\nL003359 | Pension and Retiree Medical Plans | 55\nL003360 | CONSOLIDATED STATEMENT OF INCOME | 57\nL003361 | CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME | 58\nL003362 | CONSOLIDATED STATEMENT OF CASH FLOWS | 59\nL003363 | CONSOLIDATED BALANCE SHEET | 61\nL003364 | CONSOLIDATED STATEMENT OF EQUITY | 62\nL003365 | NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS |\nL003366 | Note 1 – Basis of Presentation and Our Segments | 63\nL003367 | Note 2 – Our Significant Accounting Policies | 69\nL003368 | Note 3 – Restructuring and Impairment Charges | 73\nL003369 | Note 4 – Intangible Assets | 75\nL003370 | Note 5 – Income Taxes | 77\nL003371 | Note 6 – Share-Based Compensation | 81\nL003372 | Note 7 – Pension, Retiree Medical and Savings Plans | 85\nL003373 | Note 8 – Debt Obligations | 91\nL003374 | Note 9 – Financial Instruments | 93\nL003375 | Note 10 – Net Income Attributable to PepsiCo per Common Share | 99\nL003376 | Note 11 – Accumulated Other Comprehensive Loss Attributable to PepsiCo | 100\nL003377 | Note 12 – Leases | 101\nL003378 | Note 13 – Acquisitions and Divestitures | 103\nL003379 | Note 14 – Supply Chain Financing Arrangements | 104\nL003380 | Note 15 – Supplemental Financial Information | 106\nL003381 | Note 16 – Legal Contingencies | 107\nL003382 | REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM | 108\nL003383 | GLOSSARY | 111\nL003384 | 32",
+    "10-Q": "L000001 | pep-20260905\nL000002 | 0000077476\nL000003 | 12/26\nL000004 | 2026\nL000005 | Q3\nL000006 | false\nL000007 | 0.0167\nL000008 | 0.0167\nL000009 | 84\nL000010 | xbrli:shares\nL000011 | iso4217:USD\nL000012 | iso4217:USD\nL000013 | xbrli:shares\nL000014 | pep:segment\nL000015 | xbrli:pure\nL000016 | iso4217:EUR\nL000017 | 0000077476\nL000018 | 2025-12-28\nL000019 | 2026-09-05\nL000020 | 0000077476\nL000021 | us-gaap:CommonStockMember\nL000022 | 2025-12-28\nL000023 | 2026-09-05\nL000024 | 0000077476\nL000025 | pep:ZeroPointSevenFivePercentNotesDue2027Member\nL000026 | 2025-12-28\nL000027 | 2026-09-05\nL000028 | 0000077476\nL000029 | pep:ZeroPointEightSevenFivePercentNotesDue2028Member\nL000030 | 2025-12-28\nL000031 | 2026-09-05\nL000032 | 0000077476\nL000033 | pep:ZeroPointFivePercentNotesDue2028Member\nL000034 | 2025-12-28\nL000035 | 2026-09-05\nL000036 | 0000077476\nL000037 | pep:FloatingRateNotesDueFebruary2028Member\nL000038 | 2025-12-28\nL000039 | 2026-09-05\nL000040 | 0000077476\nL000041 | pep:ThreePointTwoPercentNotesDue2029Member\nL000042 | 2025-12-28\nL000043 | 2026-09-05\nL000044 | 0000077476\nL000045 | pep:OnePointOneTwoFivePercentNotesDue2031Member\nL000046 | 2025-12-28\nL000047 | 2026-09-05\nL000048 | 0000077476\nL000049 | pep:ZeroPointFourPercentNotesDue2032Member\nL000050 | 2025-12-28\nL000051 | 2026-09-05\nL000052 | 0000077476\nL000053 | pep:ZeroPointSevenFivePercentNotesDue2033Member\nL000054 | 2025-12-28\nL000055 | 2026-09-05\nL000056 | 0000077476\nL000057 | pep:ThreePointFiveFivePercentNotesDue2034Member\nL000058 | 2025-12-28\nL000059 | 2026-09-05\nL000060 | 0000077476\nL000061 | pep:ThreePointThreePercentNotesDue2034Member\nL000062 | 2025-12-28\nL000063 | 2026-09-05\nL000064 | 0000077476\nL000065 | pep:ThreePointFourFivePercentNotesDue2037Member\nL000066 | 2025-12-28\nL000067 | 2026-09-05\nL000068 | 0000077476\nL000069 | pep:ThreePointSevenPercentNotesDue2038Member\nL000070 | 2025-12-28\nL000071 | 2026-09-05\nL000072 | 0000077476\nL000073 | pep:ZeroPointEightSevenFivePercentNotesDue2039Member\nL000074 | 2025-12-28\nL000075 | 2026-09-05\nL000076 | 0000077476\nL000077 | pep:FourPointOneFivePercentNotesDue2047Member\nL000078 | 2025-12-28\nL000079 | 2026-09-05\nL000080 | 0000077476\nL000081 | pep:OnePointZeroFivePercentNotesDue2050Member\nL000082 | 2025-12-28\nL000083 | 2026-09-05\nL000084 | 0000077476\nL000085 | pep:FourPointZeroFivePercentNotesDue2055Member\nL000086 | 2025-12-28\nL000087 | 2026-09-05\nL000088 | 0000077476\nL000089 | 2026-10-01\nL000090 | 0000077476\nL000091 | 2026-06-14\nL000092 | 2026-09-05\nL000093 | 0000077476\nL000094 | 2025-06-15\nL000095 | 2025-09-06\nL000096 | 0000077476\nL000097 | 2024-12-29\nL000098 | 2025-09-06\nL000099 | 0000077476\nL000100 | 2025-12-27\nL000101 | 0000077476\nL000102 | 2024-12-28\nL000103 | 0000077476\nL000104 | 2026-09-05\nL000105 | 0000077476\nL000106 | 2025-09-06\nL000107 | 0000077476\nL000108 | us-gaap:CommonStockMember\nL000109 | 2026-09-05\nL000110 | 0000077476\nL000111 | us-gaap:CommonStockMember\nL000112 | 2026-06-13\nL000113 | 0000077476\nL000114 | us-gaap:CommonStockMember\nL000115 | 2025-06-14\nL000116 | 0000077476\nL000117 | us-gaap:CommonStockMember\nL000118 | 2025-12-27\nL000119 | 0000077476\nL000120 | us-gaap:CommonStockMember\nL000121 | 2024-12-28\nL000122 | 0000077476\nL000123 | us-gaap:CommonStockMember\nL000124 | 2026-06-14\nL000125 | 2026-09-05\nL000126 | 0000077476\nL000127 | us-gaap:CommonStockMember\nL000128 | 2025-06-15\nL000129 | 2025-09-06\nL000130 | 0000077476\nL000131 | us-gaap:CommonStockMember\nL000132 | 2025-12-28\nL000133 | 2026-09-05\nL000134 | 0000077476\nL000135 | us-gaap:CommonStockMember\nL000136 | 2024-12-29\nL000137 | 2025-09-06\nL000138 | 0000077476\nL000139 | us-gaap:CommonStockMember\nL000140 | 2025-09-06\nL000141 | 0000077476\nL000142 | us-gaap:AdditionalPaidInCapitalMember\nL000143 | 2026-06-13\nL000144 | 0000077476\nL000145 | us-gaap:AdditionalPaidInCapitalMember\nL000146 | 2025-06-14\nL000147 | 0000077476\nL000148 | us-gaap:AdditionalPaidInCapitalMember\nL000149 | 2025-12-27\nL000150 | 0000077476\nL000151 | us-gaap:AdditionalPaidInCapitalMember\nL000152 | 2024-12-28\nL000153 | 0000077476\nL000154 | us-gaap:AdditionalPaidInCapitalMember\nL000155 | 2026-06-14\nL000156 | 2026-09-05\nL000157 | 0000077476\nL000158 | us-gaap:AdditionalPaidInCapitalMember\nL000159 | 2025-06-15\nL000160 | 2025-09-06\nL003213 | Table of Contents\nL003214 | are generally identified through the inclusion of words such as “aim,” “anticipate,” “believe,” “drive,” “estimate,” “expect,” “expressed confidence,” “forecast,” “future,” “goal,” “guidance,” “intend,” “may,” “objective,” “outlook,” “plan,” “position,” “potential,” “project,” “seek,” “should,” “strategy,” “target,” “will” or similar statements or variations of such words and other similar expressions. All statements addressing our future operating performance, and statements addressing events a\nL003215 | 2025",
+    "release_EX-99.1": "L000001 | EX-99.1\nL000002 | 2\nL000003 | q320268-kxexhibit991.htm\nL000004 | EX-99.1\nL000005 | Document\nL000006 | Exhibit 99.1\nL000007 | PepsiCo Reports Third-Quarter 2026 Results\nL000008 | Third-Quarter and Year-to-Date Results\nL000009 | 1\nL000010 | •\nL000011 | Net revenue increased 5.6% and 6.7%, respectively\nL000012 | •\nL000013 | Organic revenue\nL000014 | 2\nL000015 | increased 3.1% and 2.7%, respectively\nL000016 | •\nL000017 | Earnings per share (EPS) increased 17% and 47%, respectively\nL000018 | •\nL000019 | Core\nL000020 | 2\nL000021 | EPS increased 2% and 5%, respectively\nL000022 | •\nL000023 | Core constant currency\nL000024 | 2\nL000025 | EPS increased 1.5% and 2%, respectively\nL000026 | Guidance\nL000027 | •\nL000028 | Company updates fiscal 2026 financial guidance\nL000029 | 2\nL000030 | PURCHASE, N.Y. - October 8, 2026\nL000031 | - PepsiCo, Inc. (NASDAQ: PEP) today reported results for third-quarter 2026.\nL000032 | “Our third-quarter results featured strong net revenue growth, an acceleration in organic revenue growth with organic volume growth across both global beverages and convenient foods. The results reflect the scale and resilience of the international business, the ongoing evolution of the global portfolio and an improved presence in underpenetrated channels and occasions,” said Chairman and CEO Ramon Laguarta.\nL000033 | Laguarta continued, “Looking ahead, we remain focused on building upon the strength of the International business while acting with urgency to sustainably improve our performance in North America through more investments in innovation, effective brand building, and sharper marketplace execution by channel. Additional structural cost reduction actions are being identified and will be implemented in the coming months to help fund investments that aim to accelerate organic revenue growth and mitiga\nL000034 | | Third-Quarter |  | Year-to-Date\nL000035 | ($ in millions, except EPS) | Q3 2026 | Q3 2025 | Change |  | Q3 2026 | Q3 2025 | Change\nL000036 | Net revenue | $25,274 | $23,937 | 5.6% |  | $68,898 | $64,582 | 6.7%\nL000037 | Organic revenue performance |  |  | 3.1% |  |  |  | 2.7%\nL000038 | Operating profit | $4,260 | $3,569 | 19% |  | $11,496 | $7,941 | 45%\nL000039 | Operating margin | 16.9% | 14.9% | 195 bps |  | 16.7% | 12.3% | 440 bps\nL000040 | Core operating profit | $4,277 | $4,137 | 3% |  | $11,394 | $10,837 | 5%\nL000041 | Core operating margin | 16.9% | 17.3% | (35) bps |  | 16.5% | 16.8% | (25) bps\nL000042 | EPS | $2.23 | $1.90 | 17% |  | $6.10 | $4.15 | 47%\nL000043 | Core EPS | $2.34 | $2.29 | 2% |  | $6.15 | $5.88 | 5%\nL000044 | Core constant currency EPS |  |  | 1.5% |  |  |  | 2%\nL000045 | 1\nL000046 | Versus the prior year.\nL000047 | 2\nL000048 | Please refer to the reconciliation of generally accepted accounting principles (GAAP) and non-GAAP information in the attached exhibits and to the Glossary for the definitions of non-GAAP financial measures, including “Organic revenue performance,” “Core” and “Constant currency,” and to “Guidance and Outlook” for additional information regarding PepsiCo’s full-year 2026 financial guidance. PepsiCo provides guidance on a non-GAAP basis as we cannot predict certain elements which are included in r\nL000049 | 1\nL000050 | Third-Quarter Results Discussion\nL000051 | •\nL000052 | Net revenue increased 5.6% due to 3.1% organic revenue growth, a 1.7-percentage-point net benefit from acquisitions and divestitures and a 0.7-percentage-point benefit from foreign exchange translation. Organic revenue growth reflects the benefits associated with effective net pricing and a contribution from organic volume growth.\nL000053 | ◦\nL000054 | In North America, convenient foods net revenue trends improved sequentially, reflecting savory snacks volume growth and volume market share improvement, offset by lower effective net pricing. The beverages business delivered 5 percent net revenue growth, primarily reflecting the benefits of acquisitions made in 2025.\nL000055 | ◦\nL000056 | The international businesses performed well with each segment delivering strong net revenue growth - aided by organic volume growth within Asia Pacific Foods, International Beverages Franchise and Latin America Foods.\nL000057 | •\nL000058 | Operating profit increased 19% and operating margin expanded 195 basis points, primarily reflecting a favorable net impact of acquisition and divestiture-related charges/credits and a favorable impact of net mark-to-market gains on commodity derivatives. Core operating profit increased 3%, with core operating margin contracting 35 basis points. The core operating profit performance reflects productivity savings, effective net pricing and a 4-percentage-point favorable impact of tariff refunds. T\nL000059 | •\nL000060 | EPS increased 17% and core EPS increased 2%, primarily driven by operating profit growth.\nL000061 | Year-to-Date Results Discussion\nL000062 | •\nL000063 | Net revenue increased 6.7% due to 2.7% organic revenue growth, a 2.0-percentage-point benefit from foreign exchange translation and a 2.0-percentage-point net benefit from acquisitions and divestitures. Organic revenue growth reflects the benefits associated with effective net pricing and a contribution from organic volume growth.\nL000064 | ◦\nL000065 | In North America convenient foods, organic volume and volume market share increased aided by innovation and affordability initiatives. Convenient foods net revenue reflects organic volume growth and the benefits of an acquisition, offset by lower effective net pricing. The beverages business delivered 7 percent net revenue growth, primarily reflecting the benefits of acquisitions made in 2025 with organic revenue growth increasing 1 percent.\nL000066 | ◦\nL000067 | The international businesses performed well with each segment delivering strong net revenue growth - aided by organic volume growth within Asia Pacific Foods, International Beverages Franchise and EMEA.\nL000068 | •\nL000069 | Operating profit increased 45% and operating margin expanded 440 basis points, primarily reflecting prior-year impairment charges related to the Rockstar and Be & Cheery brands and a favorable net impact of acquisition and divestiture-related charges/credits. Core operating profit increased 5%, with core operating margin contracting 25 basis points. The core operating profit performance was primarily driven by productivity savings and effective net pricing, partially offset by certain operating \nL000070 | •\nL000071 | EPS increased 47% and core EPS increased 5%, primarily driven by operating profit growth.\nL000072 | 2\nL000073 | Summary Third-Quarter 2026 Performance\nL000074 | | Revenue |  | Volume (a)\nL000075 | | GAAP Reported % Change | Percentage Point Impact | Organic % Change |  | % Change\nL000076 | | Foreign Exchange Translation | Acquisitions and Divestitures |  | Convenient Foods | Beverages\nL000077 | PepsiCo Foods North America (PFNA) | — | — | — | — |  | — |\nL000078 | PepsiCo Beverages North America (PBNA) | 5 | — | (6) | — |  |  | (2)\nL000079 | International Beverages Franchise (IB Franchise) | 8 | (1) | — | 7 |  |  | 5\nL000080 | Europe, Middle East and Africa (EMEA) | 8 | 1 | — | 9 |  | (1) | 4\nL000081 | Latin America Foods (LatAm Foods) | 14 | (8) | — | 6 |  | 3 |\nL000082 | Asia Pacific Foods | 10 | (1) | — | 9 |  | 11 |\nL000083 | Total | 6 | (1) | (2) | 3 |  | 1 | 3\nL000084 | | Operating Profit and EPS\nL000085 | | GAAP Reported % Change | Percentage Point Impact | Core Constant Currency % Change\nL000086 | | Items Affecting Comparability | Foreign Exchange Translation\nL000087 | PFNA | (13) | 1 | — | (12)\nL000088 | PBNA | 45 | (41) | — | 4\nL000089 | IB Franchise | 29 | (19) | (1.5) | 9\nL000090 | EMEA | 25 | (8) | 2 | 19\nL000091 | LatAm Foods | 47 | (27) | (9) | 10\nL000092 | Asia Pacific Foods | 15 | (1) | (2) | 12\nL000093 | Corporate unallocated expenses | (10) | 15 | — | 5\nL000094 | Total | 19 | (16) | (1) | 2.5\nL000095 | EPS | 17 | (15) | (1) | 1.5\nL000096 | (a)\nL000097 | Excludes the impact of acquisitions and divestitures. In certain instances, the volume change shown here differs from the impact of organic volume change on net revenue performance disclosed in the Organic Revenue Performance table on page A-7, due to the impacts of product mix, nonconsolidated joint venture volume, and, for our franchise beverage businesses, temporary timing differences between bottler case sales (BCS) and concentrate shipments and equivalents (CSE). We report net revenue from \nL000098 | Note: Amounts may not sum due to rounding.\nL000099 | Organic revenue and core constant currency results are non-GAAP financial measures. Please refer to the reconciliation of GAAP and non-GAAP information in the attached exhibits and to the Glossary for definitions of “Organic revenue performance,” “Core” and “Constant currency.”\nL000100 | 3\nL000101 | Summary Year-to-Date 2026 Performance\nL000102 | | Revenue |  | Volume (a)\nL000103 | | GAAP Reported % Change | Percentage Point Impact | Organic % Change |  | % Change\nL000104 | | Foreign Exchange Translation | Acquisitions and Divestitures |  | Convenient Foods | Beverages\nL000105 | PFNA | — | — | — | — |  | 1 |\nL000106 | PBNA | 7 | — | (6) | 1 |  |  | (3)\nL000107 | IB Franchise | 10 | (2) | — | 8 |  |  | 4\nL000108 | EMEA | 11 | (3) | — | 7 |  | 3 | 2\nL000109 | LatAm Foods | 15 | (11) | — | 4.5 |  | — |\nL000110 | Asia Pacific Foods | 11 | (3) | — | 9 |  | 10 |\nL000111 | Total | 7 | (2) | (2) | 3 |  | 3 | 2\nL000112 | | Operating Profit and EPS\nL000113 | | GAAP Reported % Change | Percentage Point Impact | Core Constant Currency % Change\nL000114 | | Items Affecting Comparability | Foreign Exchange Translation\nL000115 | PFNA | (8) | — | — | (8)\nL000116 | PBNA | 416 | (413) | — | 3\nL000117 | IB Franchise | 22 | (7) | (2) | 13\nL000118 | EMEA | 47 | (29) | (2) | 17\nL000119 | LatAm Foods | 28 | (10) | (12) | 6\nL000120 | Asia Pacific Foods | 62 | (32) | (4) | 25\nL000121 | Corporate unallocated expenses | (13) | 16 | — | 3\nL000122 | Total | 45 | (40) | (2) | 3\nL000123 | EPS | 47 | (42) | (2.5) | 2\nL000124 | (a)\nL000125 | Excludes the impact of acquisitions and divestitures. In certain instances, the volume change shown here differs from the impact of organic volume change on net revenue performance disclosed in the Organic Revenue Performance table on page A-7, due to the impacts of product mix, nonconsolidated joint venture volume, and, for our franchise beverage businesses, temporary timing differences between BCS and CSE. We report net revenue from our franchise beverage businesses based on CSE. The volume so\nL000126 | Note: Amounts may not sum due to rounding.\nL000127 | Organic revenue and core constant currency results are non-GAAP financial measures. Please refer to the reconciliation of GAAP and non-GAAP information in the attached exhibits and to the Glossary for definitions of “Organic revenue performance,” “Core” and “Constant currency.”\nL000128 | 4\nL000129 | Guidance and Outlook\nL000130 | The Company provides guidance on a non-GAAP basis as we cannot predict certain elements which are included in reported GAAP results, including the impact of foreign exchange translation and commodity mark-to-market net impacts. PepsiCo’s current and previous fiscal 2026 outlook is summarized below.\nL000131 | Fiscal 2026 Guidance (\nL000132 | changes are bolded & italicized below)\nL000133 | | Current | Previous\nL000134 | Organic Revenue | Approximately +3% | +2% to +4%\nL000135 | Foreign Exchange Translation (a) | Approximately +1.5% to net revenue and core EPS growth | Approximately +1% to net revenue and core EPS growth\nL000136 | Acquisitions, net of Divestitures (b) | Approximately +1.5% to net revenue growth | Approximately +1% to net revenue growth\nL000137 | Net Revenue | Approximately +6% | +4% to +6%\nL000138 | Core Annual Effective Tax Rate (c) | Approximately 21% | Approximately 22%\nL000139 | Core Constant Currency EPS | +1% to +2% | Low-end of +4% to +6%\nL000140 | Core EPS | +2.5% to +3.5% | Low-end of +5% to +7%\nL000141 | Capital Spending | Below 5% of net revenue | Below 5% of net revenue\nL000142 | Free Cash Flow Conversion Ratio | At least 80 percent | At least 80 percent\nL000143 | Cash Returns to Shareholders (d) | $8.9 billion | $8.9 billion\nL000144 | (a)\nL000145 | Assumptions are based on current foreign exchange rates, as we are unable to predict the impact of exchange translation rates.\nL000146 | (b)\nL000147 | Refers to acquisitions, net of divestitures, that occurred in 2025.\nL000148 | (c)\nL000149 | Includes the anticipated impact of global minimum tax regulations.\nL000150 | (d)\nL000151 | Comprised of dividends of $7.9 billion and share repurchases of $1.0 billion.\nL000152 | Prepared Management Remarks and Live Question and Answer Webcast\nL000153 | At approximately 6:00 a.m. (Eastern time) on October 8, 2026, the Company will post prepared management remarks (in pdf format) regarding its third quarter results and business update, including its outlook for 2026, at https://www.pepsico.com/investors. At 8:15 a.m. (Eastern time) on October 8, 2026,  the Company will host a live question and answer session with investors and financial analysts. Further details will be accessible on the Company’s website at https://www.pepsico.com/investors.\nL000154 | Contacts: | Investor Relations |  | Communications\nL000155 | | investor@pepsico.com |  | pepsicomediarelations@pepsico.com\nL000156 | 5\nL000157 | PepsiCo, Inc. and Subsidiaries\nL000158 | Condensed Consolidated Statement of Income\nL000159 | (in millions, except per share amounts, unaudited)\nL000160 | | 12 Weeks Ended |  | 36 Weeks Ended\nL000161 | | 9/5/2026 |  | 9/6/2025 |  | 9/5/2026 |  | 9/6/2025\nL000162 | Net Revenue | $ | 25,274 |  |  | $ | 23,937 |  |  | $ | 68,898 |  |  | $ | 64,582 |\nL000163 | Cost of sales | 11,520 |  |  | 11,113 |  |  | 31,302 |  |  | 29,343 |\nL000164 | Gross profit | 13,754 |  |  | 12,824 |  |  | 37,596 |  |  | 35,239 |\nL000165 | Selling, general and administrative expenses | 9,494 |  |  | 9,122 |  |  | 26,100 |  |  | 25,305 |\nL000166 | Impairment of intangible assets (a) | — |  |  | 133 |  |  | — |  |  | 1,993 |\nL000167 | Operating Profit | 4,260 |  |  | 3,569 |  |  | 11,496 |  |  | 7,941 |\nL000168 | Other pension and retiree medical benefits (expense)/income | (114) |  |  | 26 |  |  | 3 |  |  | 91 |\nL000169 | Net interest expense and other | (242) |  |  | (264) |  |  | (773) |  |  | (788) |\nL000170 | Income before income taxes | 3,904 |  |  | 3,331 |  |  | 10,726 |  |  | 7,244 |\nL000171 | Provision for income taxes | 834 |  |  | 713 |  |  | 2,314 |  |  | 1,504 |\nL000172 | Net income | 3,070 |  |  | 2,618 |  |  | 8,412 |  |  | 5,740 |\nL000173 | Less: Net income attributable to noncontrolling interests | 22 |  |  | 15 |  |  | 56 |  |  | 40 |\nL000174 | Net Income Attributable to PepsiCo | $ | 3,048 |  |  | $ | 2,603 |  |  | $ | 8,356 |  |  | $ | 5,700 |\nL000175 | Diluted |  |  |  |  |  |  |\nL000176 | Net income attributable to PepsiCo per common share | $ | 2.23 |  |  | $ | 1.90 |  |  | $ | 6.10 |  |  | $ | 4.15 |\nL000177 | Weighted-average common shares outstanding | 1,367 |  |  | 1,372 |  |  | 1,369 |  |  | 1,373 |\nL000178 | (a)\nL000179 | For the 12 and 36 weeks ended September 6, 2025, we recognized charges primarily related to the impairment of our Rockstar brand.\nL000180 | A - 1\nL000181 | PepsiCo, Inc. and Subsidiaries\nL000182 | Condensed Consolidated Statement of Cash Flows\nL000183 | (in millions, unaudited)\nL000184 | | 36 Weeks Ended\nL000185 | | 9/5/2026 |  | 9/6/2025\nL000186 | Operating Activities |  |  |\nL000187 | Net income | $ | 8,412 |  |  | $ | 5,740 |\nL000188 | Depreciation and amortization | 2,531 |  |  | 2,315 |\nL000189 | Impairment and other charges | — |  |  | 1,960 |\nL000190 | Operating lease right-of-use asset amortization | 531 |  |  | 489 |\nL000191 | Share-based compensation expense | 240 |  |  | 207 |\nL000192 | Restructuring and impairment charges | 367 |  |  | 567 |\nL000193 | Cash payments for restructuring charges | (373) |  |  | (554) |\nL000194 | Acquisition and divestiture-related charges/credits | (254) |  |  | 308 |\nL000195 | Cash payments for acquisition and divestiture-related charges | (24) |  |  | (80) |\nL000196 | Pension and retiree medical plan expenses | 227 |  |  | 164 |\nL000197 | Pension and retiree medical plan contributions | (355) |  |  | (400) |\nL000198 | Deferred income taxes and other tax charges/credits | 663 |  |  | 30 |\nL000199 | Tax payments related to the Tax Cuts and Jobs Act | (965) |  |  | (772) |\nL000200 | Change in assets and liabilities: |  |  |\nL000201 | Accounts and notes receivable | (2,124) |  |  | (1,747) |\nL000202 | Inventories | (588) |  |  | (449) |\nL000203 | Prepaid expenses and other current assets | 27 |  |  | (223) |\nL000204 | Accounts payable and other current liabilities | (358) |  |  | (1,647) |\nL000205 | Income taxes payable | 415 |  |  | 6 |\nL000206 | Other, net | (422) |  |  | (446) |\nL000207 | Net Cash Provided by Operating Activities | 7,950 |  |  | 5,468 |\nL000208 | Investing Activities |  |  |\nL000209 | Capital spending | (2,182) |  |  | (2,499) |\nL000210 | Sales of property, plant and equipment | 89 |  |  | 272 |\nL000211 | Acquisitions, net of cash acquired, investments in noncontrolled affiliates and purchases of intangible and other assets | (148) |  |  | (3,176) |\nL000212 | Short-term investments, by original maturity: |  |  |\nL000213 | More than three months - purchases | (105) |  |  | (190) |\nL000214 | More than three months - maturities | 17 |  |  | 425 |\nL000215 | More than three months - sales | 14 |  |  | — |\nL000216 | Three months or less, net | (5) |  |  | 43 |\nL000217 | Other investing, net | (27) |  |  | (112) |\nL000218 | Net Cash Used for Investing Activities | (2,347) |  |  | (5,237) |\nL000219 | (Continued on following page)\nL000220 | A - 2\nL000221 | PepsiCo, Inc. and Subsidiaries\nL000222 | Condensed Consolidated Statement of Cash Flows (continued)\nL000223 | (in millions, unaudited)\nL000224 | | 36 Weeks Ended\nL000225 | | 9/5/2026 |  | 9/6/2025\nL000226 | Financing Activities |  |  |\nL000227 | Proceeds from issuances of long-term debt | $ | 2,978 |  |  | $ | 8,179 |\nL000228 | Payments of long-term debt | (2,328) |  |  | (3,245) |\nL000229 | Short-term borrowings, by original maturity: |  |  |\nL000230 | More than three months - proceeds | 4,562 |  |  | 5,528 |\nL000231 | More than three months - payments | (3,817) |  |  | (5,417) |\nL000232 | Three months or less, net | 1,365 |  |  | 445 |\nL000233 | Cash dividends paid | (5,935) |  |  | (5,692) |\nL000234 | Share repurchases | (739) |  |  | (752) |\nL000235 | Proceeds from exercises of stock options | 107 |  |  | 76 |\nL000236 | Withholding tax payments on restricted stock units and performance stock units converted | (96) |  |  | (112) |\nL000237 | Other financing | (1) |  |  | (18) |\nL000366 | (c)\nL000367 | A financial measure that is not in accordance with GAAP. See pages A-5 through A-6 for further discussion.\nL000368 | (d)\nL000369 | Excludes the impact of acquisitions and divestitures. In certain instances, the impact of organic volume change on net revenue performance differs from the unit volume change disclosed in the Summary Third-Quarter 2026 Performance table and Summary Year-to-Date 2026 Performance table on pages 3 and 4 respectively, due to the impacts of product mix, nonconsolidated joint venture volume, and, for our franchise beverage businesses, temporary timing differences between BCS and CSE. We report net rev\nL000370 | Note – Amounts may not sum due to rounding.\nL000371 | A - 7\nL000372 | PepsiCo, Inc. and Subsidiaries\nL000373 | Reconciliation of GAAP and Non-GAAP Information (continued)\nL000374 | Certain Line Items by Segment\nL000375 | 12 Weeks Ended September 5, 2026\nL000376 | (dollars in millions, unaudited)\nL000377 | | PFNA |  | PBNA |  | IB Franchise |  | EMEA |  | LatAm Foods |  | Asia Pacific Foods |  | Corporate Unallocated Expenses |  | Total |  |\nL000378 | Reported Cost of Sales, GAAP measure | $ | 2,578 |  |  | $ | 3,540 |  |  | $ | 409 |  |  | $ | 3,044 |  |  | $ | 1,233 |  |  | $ | 731 |  |  | $ | (15) |  |  | $ | 11,520 |  |  |\nL000379 | Mark-to-market net impact | — |  |  | — |  |  | — |  |  | — |  |  | — |  |  | — |  |  | 15 |  |  | 15 |  |  |\nL000380 | Restructuring and impairment charges | (2) |  |  | (5) |  |  | — |  |  | (3) |  |  | 1 |  |  | — |  |  | — |  |  | (9) |  |  |\nL000381 | Core Cost of Sales, non-GAAP measure (a) | $ | 2,576 |  |  | $ | 3,535 |  |  | $ | 409 |  |  | $ | 3,041 |  |  | $ | 1,234 |  |  | $ | 731 |  |  | $ | — |  |  | $ | 11,526 |  |  |\nL000382 | |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | Gross Margin\nL000383 | Reported Gross Profit, GAAP measure | $ | 3,926 |  |  | $ | 4,166 |  |  | $ | 992 |  |  | $ | 2,369 |  |  | $ | 1,788 |  |  | $ | 498 |  |  | $ | 15 |  |  | $ | 13,754 |  |  | 54.4 | %\nL000384 | Mark-to-market net impact | — |  |  | — |  |  | — |  |  | — |  |  | — |  |  | — |  |  | (15) |  |  | (15) |  |  | (0.1) |\nL000385 | Restructuring and impairment charges | 2 |  |  | 5 |  |  | — |  |  | 3 |  |  | (1) |  |  | — |  |  | — |  |  | 9 |  |  | — |\nL000386 | Core Gross Profit, non-GAAP measure (a) | $ | 3,928 |  |  | $ | 4,171 |  |  | $ | 992 |  |  | $ | 2,372 |  |  | $ | 1,787 |  |  | $ | 498 |  |  | $ | — |  |  | $ | 13,748 |  |  | 54.4 | %\nL000387 | Reported Selling, General and Administrative Expenses, GAAP measure | $ | 2,593 |  |  | $ | 3,110 |  |  | $ | 430 |  |  | $ | 1,472 |  |  | $ | 1,164 |  |  | $ | 324 |  |  | $ | 401 |  |  | $ | 9,494 |  |  |\nL000388 | Mark-to-market net impact | — |  |  | — |  |  | — |  |  | — |  |  | — |  |  | — |  |  | 64 |  |  | 64 |  |  |\nL000389 | Restructuring and impairment charges | (46) |  |  | (48) |  |  | (2) |  |  | (40) |  |  | (3) |  |  | (5) |  |  | (39) |  |  | (183) |  |  |\nL000390 | Acquisition and divestiture-related charges/credits | (1) |  |  | 97 |  |  | — |  |  | — |  |  | — |  |  | — |  |  | — |  |  | 96 |  |  |\nL000391 | Core Selling, General and Administrative Expenses, non-GAAP measure (a) | $ | 2,546 |  |  | $ | 3,159 |  |  | $ | 428 |  |  | $ | 1,432 |  |  | $ | 1,161 |  |  | $ | 319 |  |  | $ | 426 |  |  | $ | 9,471 |  |  |\nL000392 | |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | Operating Margin\nL000393 | Reported Operating Profit, GAAP measure | $ | 1,333 |  |  | $ | 1,056 |  |  | $ | 562 |  |  | $ | 897 |  |  | $ | 624 |  |  | $ | 174 |  |  | $ | (386) |  |  | $ | 4,260 |  |  | 16.9 | %\nL000394 | Mark-to-market net impact | — |  |  | — |  |  | — |  |  | — |  |  | — |  |  | — |  |  | (79) |  |  | (79) |  |  | (0.3) |\nL000395 | Restructuring and impairment charges | 48 |  |  | 53 |  |  | 2 |  |  | 43 |  |  | 2 |  |  | 5 |  |  | 39 |  |  | 192 |  |  | 0.8 |\nL000396 | Acquisition and divestiture-related charges/credits | 1 |  |  | (97) |  |  | — |  |  | — |  |  | — |  |  | — |  |  | — |  |  | (96) |  |  | (0.4) |\nL000397 | Core Operating Profit, non-GAAP measure (a) | 1,382 |  |  | 1,012 |  |  | 564 |  |  | 940 |  |  | 626 |  |  | 179 |  |  | (426) |  |  | 4,277 |  |  | 16.9 | %\nL000398 | Impact of foreign exchange translation (b) | 2 |  |  | 3 |  |  | (8) |  |  | 18 |  |  | (49) |  |  | (4) |  |  | — |  |  | (38) |  |  |\nL000399 | Core Constant Currency Operating Profit, non-GAAP measure (a) | $ | 1,384 |  |  | $ | 1,015 |  |  | $ | 556 |  |  | $ | 958 |  |  | $ | 577 |  |  | $ | 175 |  |  | $ | (426) |  |  | $ | 4,239 |  |  |\nL000400 | Reported Operating Profit % Change, GAAP measure | (13) |  |  | 45 |  |  | 29 |  |  | 25 |  |  | 47 |  |  | 15 |  |  | (10) |  |  | 19 |  |  |\nL000401 | Core Operating Profit % Change, non-GAAP measure (a) | (12) |  |  | 4 |  |  | 10 |  |  | 16 |  |  | 20 |  |  | 14 |  |  | 5 |  |  | 3 |  |  |\nL000402 | Core Constant Currency Operating Profit % Change, non-GAAP measure (a) | (12) |  |  | 4 |  |  | 9 |  |  | 19 |  |  | 10 |  |  | 12 |  |  | 5 |  |  | 2.5 |  |  |\nL000403 | (a)\nL000404 | A financial measure that is not in accordance with GAAP. See pages A-5 through A-6 for further discussion.\nL000405 | (b)\nL000406 | Represents the adjustment needed to reflect translation of operating profit using prior-year period foreign currency exchange rates.\nL000407 | Note – Amounts may not sum due to rounding.\nL000408 | A - 8\nL000409 | PepsiCo, Inc. and Subsidiaries\nL000410 | Reconciliation of GAAP and Non-GAAP Information (continued)\nL000411 | Certain Line Items by Segment (continued)\nL000412 | 12 Weeks Ended September 6, 2025\nL000413 | (dollars in millions, unaudited)\nL000414 | | PFNA |  | PBNA |  | IB Franchise |  | EMEA |  | LatAm Foods |  | Asia Pacific Foods |  | Corporate Unallocated Expenses |  | Total |  |\nL000415 | Reported Cost of Sales, GAAP measure | $ | 2,567 |  |  | $ | 3,452 |  |  | $ | 405 |  |  | $ | 2,871 |  |  | $ | 1,134 |  |  | $ | 666 |  |  | $ | 18 |  |  | $ | 11,113 |  |  |\nL000416 | Mark-to-market net impact | — |  |  | — |  |  | — |  |  | — |  |  | — |  |  | — |  |  | (18) |  |  | (18) |  |  |\nL000417 | Restructuring and impairment charges | (10) |  |  | 1 |  |  | — |  |  | (7) |  |  | — |  |  | — |  |  | — |  |  | (16) |  |  |\nL000418 | Acquisition and divestiture-related charges/credits | — |  |  | (46) |  |  | — |  |  | — |  |  | — |  |  | — |  |  | — |  |  | (46) |  |  |\nL000419 | Core Cost of Sales, non-GAAP measure (a) | $ | 2,557 |  |  | $ | 3,407 |  |  | $ | 405 |  |  | $ | 2,864 |  |  | $ | 1,134 |  |  | $ | 666 |  |  | $ | — |  |  | $ | 11,033 |  |  |\nL000420 | |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | Gross Margin\nL000421 | Reported Gross Profit, GAAP measure | $ | 3,959 |  |  | $ | 3,875 |  |  | $ | 886 |  |  | $ | 2,151 |  |  | $ | 1,522 |  |  | $ | 449 |  |  | $ | (18) |  |  | $ | 12,824 |  |  | 53.6 | %\nL000422 | Mark-to-market net impact | — |  |  | — |  |  | — |  |  | — |  |  | — |  |  | — |  |  | 18 |  |  | 18 |  |  | 0.1 |\nL000423 | Restructuring and impairment charges | 10 |  |  | (1) |  |  | — |  |  | 7 |  |  | — |  |  | — |  |  | — |  |  | 16 |  |  | 0.1 |"
+  }
+}

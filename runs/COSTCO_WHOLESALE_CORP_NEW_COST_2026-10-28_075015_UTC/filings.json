@@ -1,0 +1,41 @@
+{
+  "10-K": {
+    "form": "10-K",
+    "accession": "0000909832-26-000093",
+    "filing_date": "2026-10-07",
+    "report_date": "2026-08-30",
+    "accepted": "2026-10-07T01:13:15.000Z",
+    "primary_document": "cost-20260830.htm",
+    "items": "",
+    "cik": 909832,
+    "index_url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/0000909832-26-000093-index.htm",
+    "primary_url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/cost-20260830.htm",
+    "exhibit_url": ""
+  },
+  "10-Q": {
+    "form": "10-Q",
+    "accession": "0000909832-26-000051",
+    "filing_date": "2026-06-03",
+    "report_date": "2026-05-10",
+    "accepted": "2026-06-03T20:43:00.000Z",
+    "primary_document": "cost-20260510.htm",
+    "items": "",
+    "cik": 909832,
+    "index_url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000051/0000909832-26-000051-index.htm",
+    "primary_url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000051/cost-20260510.htm",
+    "exhibit_url": ""
+  },
+  "earnings_8-K": {
+    "form": "8-K",
+    "accession": "0000909832-26-000084",
+    "filing_date": "2026-09-24",
+    "report_date": "2026-09-24",
+    "accepted": "2026-09-24T20:17:37.000Z",
+    "primary_document": "cost-20260924.htm",
+    "items": "2.02,9.01",
+    "cik": 909832,
+    "index_url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000084/0000909832-26-000084-index.htm",
+    "primary_url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000084/cost-20260924.htm",
+    "exhibit_url": "https://www.sec.gov/Archives/edgar/data/909832/000090983226000084/costex9918-k92426.htm"
+  }
+}

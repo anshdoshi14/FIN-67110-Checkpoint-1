@@ -1,0 +1,41 @@
+{
+  "10-K": {
+    "form": "10-K",
+    "accession": "0000104169-26-000055",
+    "filing_date": "2026-03-13",
+    "report_date": "2026-01-31",
+    "accepted": "2026-03-13T20:06:24.000Z",
+    "primary_document": "wmt-20260131.htm",
+    "items": "",
+    "cik": 104169,
+    "index_url": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/0000104169-26-000055-index.htm",
+    "primary_url": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm",
+    "exhibit_url": ""
+  },
+  "10-Q": {
+    "form": "10-Q",
+    "accession": "0000104169-26-000154",
+    "filing_date": "2026-08-28",
+    "report_date": "2026-07-31",
+    "accepted": "2026-08-28T20:11:28.000Z",
+    "primary_document": "wmt-20260731.htm",
+    "items": "",
+    "cik": 104169,
+    "index_url": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000154/0000104169-26-000154-index.htm",
+    "primary_url": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000154/wmt-20260731.htm",
+    "exhibit_url": ""
+  },
+  "earnings_8-K": {
+    "form": "8-K",
+    "accession": "0000104169-26-000145",
+    "filing_date": "2026-08-20",
+    "report_date": "2026-08-20",
+    "accepted": "2026-08-20T10:59:01.000Z",
+    "primary_document": "wmt-20260820.htm",
+    "items": "2.02,9.01",
+    "cik": 104169,
+    "index_url": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000145/0000104169-26-000145-index.htm",
+    "primary_url": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000145/wmt-20260820.htm",
+    "exhibit_url": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000145/earningsreleasefy27q2.htm"
+  }
+}

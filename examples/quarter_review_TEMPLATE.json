@@ -1,0 +1,9 @@
+{
+  "ticker": "REPLACE_TICKER",
+  "revenue_current": null,
+  "revenue_prior": null,
+  "diluted_eps_gaap": null,
+  "unit": "USD millions (replace with actual release table unit)",
+  "revenue_line": null,
+  "eps_line": null
+}

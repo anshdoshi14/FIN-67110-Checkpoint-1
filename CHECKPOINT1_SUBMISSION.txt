@@ -1,0 +1,11 @@
+Checkpoint 1 — FIN 67110
+
+Paste into Brightspace ONLY AFTER uploading your files and verifying the resulting commit:
+
+Permanent repository link: https://github.com/REPLACE_USERNAME/REPLACE_REPO/tree/REPLACE_FULL_COMMIT_SHA
+Partner's chosen company: PepsiCo, Inc. (PEP) â€” confirmed by student 2026-10-29
+Partner-company report: https://github.com/REPLACE_USERNAME/REPLACE_REPO/blob/REPLACE_FULL_COMMIT_SHA/runs/REPLACE_RUN_FOLDER/REPLACE_TICKER_report.md
+
+You may submit the commit link alone if Brightspace only asks for a permalink.
+A branch URL such as /tree/main is not a permanent commit link.
+Do not submit placeholders. Ensure the report is pushed and publicly readable.

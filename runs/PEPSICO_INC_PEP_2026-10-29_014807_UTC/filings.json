@@ -1,0 +1,41 @@
+{
+  "10-K": {
+    "form": "10-K",
+    "accession": "0000077476-26-000007",
+    "filing_date": "2026-02-03",
+    "report_date": "2025-12-27",
+    "accepted": "2026-02-02T23:07:04.000Z",
+    "primary_document": "pep-20251227.htm",
+    "items": "",
+    "cik": 77476,
+    "index_url": "https://www.sec.gov/Archives/edgar/data/77476/000007747626000007/0000077476-26-000007-index.htm",
+    "primary_url": "https://www.sec.gov/Archives/edgar/data/77476/000007747626000007/pep-20251227.htm",
+    "exhibit_url": ""
+  },
+  "10-Q": {
+    "form": "10-Q",
+    "accession": "0000077476-26-000048",
+    "filing_date": "2026-10-08",
+    "report_date": "2026-09-05",
+    "accepted": "2026-10-07T21:52:53.000Z",
+    "primary_document": "pep-20260905.htm",
+    "items": "",
+    "cik": 77476,
+    "index_url": "https://www.sec.gov/Archives/edgar/data/77476/000007747626000048/0000077476-26-000048-index.htm",
+    "primary_url": "https://www.sec.gov/Archives/edgar/data/77476/000007747626000048/pep-20260905.htm",
+    "exhibit_url": ""
+  },
+  "earnings_8-K": {
+    "form": "8-K",
+    "accession": "0000077476-26-000050",
+    "filing_date": "2026-10-08",
+    "report_date": "2026-10-08",
+    "accepted": "2026-10-07T21:57:44.000Z",
+    "primary_document": "pep-20261008.htm",
+    "items": "2.02,9.01",
+    "cik": 77476,
+    "index_url": "https://www.sec.gov/Archives/edgar/data/77476/000007747626000050/0000077476-26-000050-index.htm",
+    "primary_url": "https://www.sec.gov/Archives/edgar/data/77476/000007747626000050/pep-20261008.htm",
+    "exhibit_url": "https://www.sec.gov/Archives/edgar/data/77476/000007747626000050/q320268-kxexhibit991.htm"
+  }
+}

@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+.pytest_cache/
+.test-artifacts/
+python-write-probe/
+.venv/
+venv/
+*.pyc
+.DS_Store
+# API responses are reproduced by running the desk; report outputs may be committed deliberately.
