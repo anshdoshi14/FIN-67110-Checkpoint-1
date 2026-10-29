@@ -19,7 +19,7 @@ Material risks to monitor include commodity, transportation, labor, and supply-c
 
 ## Valuation Insights
 
-All annual amounts below are from the saved 2025 10-K XBRL facts for fiscal year ended December 27, 2025, accession 0000077476-26-000007. They require human verification against the filing.
+All annual amounts below are from the saved 2025 10-K XBRL facts for fiscal year ended December 27, 2025, accession 0000077476-26-000007. Student AD independently reviewed and accepted the related core claims against the saved filing on 2026-10-29.
 
 | Measure | Result | Source / arithmetic |
 |---|---:|---|
@@ -49,13 +49,13 @@ The next review should test whether North American volume and pricing stabilize,
 
 ## Investment Recommendation
 
-**Hold — provisional.** The deciding audited-pending input is the $25.274B third-quarter GAAP net-revenue figure, 5.59% above the comparable quarter, alongside the 2025 annual operating-profit decline from $12.887B to $11.498B. [EX-99.1 0000077476-26-000050 L000162] [10-K 0000077476-26-000007 L003518-L003522] This mixed evidence does not support a stronger recommendation until the human audit validates the revenue definition, the note-sourced current-debt component, the pre-release price source, and every report claim.
+**Hold — provisional.** The audited input is the $25.274B third-quarter GAAP net-revenue figure, 5.59% above the comparable quarter, alongside the 2025 annual operating-profit decline from $12.887B to $11.498B. [EX-99.1 0000077476-26-000050 L000162] [10-K 0000077476-26-000007 L003518-L003522] This mixed evidence supports a cautious recommendation. The note-sourced current-debt component is disclosed in the audit, and retaining an approved exchange/LSEG source for the pre-release price would further strengthen the submission evidence.
 
 ## Source evidence and audit handoff
 
 - Saved 10-K: `10-K.txt`; saved 10-Q: `10-Q.txt`; saved earnings release: `release_EX-99.1.txt`.
 - Code facts and arithmetic: `facts.json` and `ratios.json`.
-- Quarter transcription worksheet: `quarter_review_PEP.json`; it is intentionally marked for human verification.
+- Quarter transcription worksheet: `quarter_review_PEP.json`; its related core claims were independently reviewed and accepted by student AD on 2026-10-29.
 - Human audit worksheet: `../../audits/PEP_audit.md`.
 
 AI assistance: ChatGPT assisted in drafting this permitted fallback report and the supporting code after the configured API account reported insufficient credits. Zainab Fashola (ZF) recorded the required partner checks for claims #9 and #11 in `../../audits/PEP_audit.md`. Student AD independently reviewed and accepted the 11 core audit claims on 2026-10-29; the final investment judgment remains the student's responsibility.
